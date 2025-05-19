@@ -1,0 +1,332 @@
+[
+    {
+        "chunk": "ASX set to drop as Wall Street’s September slump deepens. Betashares reaches agreement to acquire Bendigo and Adelaide Bank's superannuation business. REITS (up 0. 4 per cent) was the strongest sector on the index as Goodman added 0. 5 per cent and Dexus climbed 2. 8 per cent. Amazon tumbled 4 per cent after the Federal Trade Commission and 17 state attorneys general filed an antitrust lawsuit against it. Apple fell 2. 3 per cent and Microsoft lost 1. 7 per cent. In China, concerns continued over heavily indebted real estate developer Evergrande",
+        "metadata": {
+            "category": "business",
+            "title": "ASX set to drop as Wall Street’s September slump deepens",
+            "url": "https://www.smh.com.au/business/markets/asx-set-to-drop-as-wall-street-s-september-slump-deepens-20230927-p5e7v7.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+            "published_at": "2023-09-26T19:11:30+00:00",
+            "source": "The Sydney Morning Herald",
+            "author": "Stan Choe"
+        }
+    },
+    {
+        "chunk": "The property market crisis there is dragging on China’s economic growth",
+        "metadata": {
+            "category": "business",
+            "title": "ASX set to drop as Wall Street’s September slump deepens",
+            "url": "https://www.smh.com.au/business/markets/asx-set-to-drop-as-wall-street-s-september-slump-deepens-20230927-p5e7v7.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+            "published_at": "2023-09-26T19:11:30+00:00",
+            "source": "The Sydney Morning Herald",
+            "author": "Stan Choe"
+        }
+    },
+    {
+        "chunk": "The FTC is seeking to hold Amazon liable for allegedly violating anti-monopoly law. In antitrust cases, remedies are often determined only after a court finds the defendant liable. Amazon relies on an “anti-discounting strategy” and a “massive web-crawling that constantly tracks online prices” FTC filed a lawsuit against Amazon, accusing the e-commerce giant of violating antitrust laws. Some Amazon sellers say the FTC's claims are misguided. One seller says he was surprised by some of the claims made in the complaint. Another seller says Amazon has removed some challenges that used to be part of running a business",
+        "metadata": {
+            "category": "business",
+            "title": "Amazon sellers sound off on the FTC's 'long-overdue' antitrust case",
+            "url": "https://www.cnbc.com/2023/10/06/amazon-sellers-sound-off-on-the-ftcs-long-overdue-antitrust-case.html",
+            "published_at": "2023-10-06T21:31:00+00:00",
+            "source": "Cnbc | World Business News Leader",
+            "author": NaN
+        }
+    },
+    {
+        "chunk": "Many sellers have zeroed in on Amazon’s pricing policies and rising fees. Molson Hart, whose company Viahart sells toys on Amazon, has been a longtime critic of Amazon's pricing policies. Hart said Amazon sales comprise about 90% of his business, meaning any hit those sales take on Amazon has a considerable impact",
+        "metadata": {
+            "category": "business",
+            "title": "Amazon sellers sound off on the FTC's 'long-overdue' antitrust case",
+            "url": "https://www.cnbc.com/2023/10/06/amazon-sellers-sound-off-on-the-ftcs-long-overdue-antitrust-case.html",
+            "published_at": "2023-10-06T21:31:00+00:00",
+            "source": "Cnbc | World Business News Leader",
+            "author": NaN
+        }
+    },
+    {
+        "chunk": "The question of whether AI will elevate the world or destroy it has framed an ongoing debate among Silicon Valley founders, chatbot users, academics, legislators and regulators. At the heart of this competition is a brain-stretching paradox. The people who say they are most worried about AI are among the most determined to create it and enjoy its riches. They have justified their ambition with their strong belief that they alone can keep AI from endangering Earth. DeepMind was founded by Demis Hassabis, Mustafa Suleyman and Kai Baidu in 2010",
+        "metadata": {
+            "category": "business",
+            "title": "How ego and fear fuelled the rise of artificial intelligence",
+            "url": "https://www.theage.com.au/business/entrepreneurship/how-ego-and-fear-fuelled-the-rise-of-artificial-intelligence-20231205-p5ep7j.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+            "published_at": "2023-12-09T18:30:00+00:00",
+            "source": "The Age",
+            "author": "Cade Metz, Karen Weise, Nico Grant and Mike Isaac"
+        }
+    },
+    {
+        "chunk": "They built a system that could learn to play classic Atari games such as Space Invaders, Pong and Breakout to illustrate what was possible. This got the attention of another Silicon Valley powerhouse, Google, and specifically Page. DeepMind was bought by Google for $US650 million. Facebook's Mark Zuckerberg wanted to build an AI lab of his own. Elon Musk invested in DeepMind but lost control of it after a spat with Larry Page. The board had been set up at the insistence of the founders to ensure their technology did no harm after the sale",
+        "metadata": {
+            "category": "business",
+            "title": "How ego and fear fuelled the rise of artificial intelligence",
+            "url": "https://www.theage.com.au/business/entrepreneurship/how-ego-and-fear-fuelled-the-rise-of-artificial-intelligence-20231205-p5ep7j.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+            "published_at": "2023-12-09T18:30:00+00:00",
+            "source": "The Age",
+            "author": "Cade Metz, Karen Weise, Nico Grant and Mike Isaac"
+        }
+    },
+    {
+        "chunk": "DeepMind’s founders were increasingly worried about what Google would do with their inventions. In 2017, they tried to break away from the company. Google responded by increasing the salaries and stock award packages of the DeepMind founders and their staff. The ethics board never had a second meeting. OpenAI was founded by Sam Altman and Dario Amodei in 2010. The company built a neural network called a large language model that could learn from enormous amounts of digital text. Researchers inside OpenAI, Google and other companies thought this rapidly improving technology could be a path to AGI",
+        "metadata": {
+            "category": "business",
+            "title": "How ego and fear fuelled the rise of artificial intelligence",
+            "url": "https://www.theage.com.au/business/entrepreneurship/how-ego-and-fear-fuelled-the-rise-of-artificial-intelligence-20231205-p5ep7j.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+            "published_at": "2023-12-09T18:30:00+00:00",
+            "source": "The Age",
+            "author": "Cade Metz, Karen Weise, Nico Grant and Mike Isaac"
+        }
+    },
+    {
+        "chunk": "Not everyone inside Open AI was happy with the Microsoft deal",
+        "metadata": {
+            "category": "business",
+            "title": "How ego and fear fuelled the rise of artificial intelligence",
+            "url": "https://www.theage.com.au/business/entrepreneurship/how-ego-and-fear-fuelled-the-rise-of-artificial-intelligence-20231205-p5ep7j.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+            "published_at": "2023-12-09T18:30:00+00:00",
+            "source": "The Age",
+            "author": "Cade Metz, Karen Weise, Nico Grant and Mike Isaac"
+        }
+    },
+    {
+        "chunk": "ASX set for bright start despite Wall Street slip; $A drops. Perpetual climbed 6. 3 per cent after it announced a strategic review of its three-pronged corporate structure. Shares in Endeavour lifted 2. 4% after it forecast earnings before interest and tax in its hotels division would grow by more than $150 million over the next five years. Utilities and energy stocks were the weakest performers on the local bourse. Only five large-cap stocks declined, with Evolution Mining sinking a mammoth 13 per cent. Robinhood Markets report a roughly 75 per cent jump in trading volumes for crypto during November",
+        "metadata": {
+            "category": "business",
+            "title": "ASX set for bright start despite Wall Street slip; $A drops",
+            "url": "https://www.smh.com.au/business/markets/asx-set-for-bright-start-a-drops-20231206-p5epbi.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+            "published_at": "2023-12-05T21:51:55+00:00",
+            "source": "The Sydney Morning Herald",
+            "author": "Stan Choe"
+        }
+    },
+    {
+        "chunk": "Customers added about $US1. 4 billion in net deposits during the month, and its own stock rose 10. 3 per cent. Take-Two Interactive slipped 0. 5 per cent after a trailer for its highly anticipated Grand Theft Auto VI video game said it’s coming in 2025",
+        "metadata": {
+            "category": "business",
+            "title": "ASX set for bright start despite Wall Street slip; $A drops",
+            "url": "https://www.smh.com.au/business/markets/asx-set-for-bright-start-a-drops-20231206-p5epbi.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+            "published_at": "2023-12-05T21:51:55+00:00",
+            "source": "The Sydney Morning Herald",
+            "author": "Stan Choe"
+        }
+    },
+    {
+        "chunk": "ASX set to open higher as Wall Street rebounds; $A rises to 16¢. Energy companies were among the weakest on the index as the oil price slumped overnight. Miners were also weaker, with lithium prospector IGO and Mineral Resources among the biggest large-cap advancers. The local rebound came after Wall Street rose after getting some relief from relaxing bond yields and falling oil prices. Benchmark US crude fell $US5. 01 to settle at $US84. 22 per barrel. It’s been pulling back since, topping $US93 last week",
+        "metadata": {
+            "category": "business",
+            "title": "ASX set to open higher as Wall Street rebounds; $A rises",
+            "url": "https://www.theage.com.au/business/markets/asx-set-to-edge-up-as-wall-street-steadies-a-rises-20231005-p5e9va.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+            "published_at": "2023-10-04T21:01:01+00:00",
+            "source": "The Age",
+            "author": "Stan Choe"
+        }
+    },
+    {
+        "chunk": "Wall Street is also absorbing the ouster of Kevin McCarthy as the speaker of the House of Representatives",
+        "metadata": {
+            "category": "business",
+            "title": "ASX set to open higher as Wall Street rebounds; $A rises",
+            "url": "https://www.theage.com.au/business/markets/asx-set-to-edge-up-as-wall-street-steadies-a-rises-20231005-p5e9va.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+            "published_at": "2023-10-04T21:01:01+00:00",
+            "source": "The Age",
+            "author": "Stan Choe"
+        }
+    },
+    {
+        "chunk": "The trial of Sam Bankman-Fried began in New York on Wednesday. He is accused of running a Ponzi scheme to steal money from investors. His lawyers argue that he was acting in good faith. The trial is expected to last several days. The prosecution called its first two witnesses to the stand. Marc-Antoine Julliard, a Paris-born cocoa trader who lives in London, was a victim. Adam Yedidia, a college friend of Bankman-Fried, was also a witness",
+        "metadata": {
+            "category": "business",
+            "title": "Is Sam Bankman-Fried a bad ‘man’ or a good ‘boy’? Lawyers swap opening statements before first witnesses take the stand",
+            "url": "https://fortune.com/crypto/2023/10/04/sam-bankman-fried-lawyers-opening-statements-witnesses-marc-antoine-julliard-adam-yedidia-ftx-commodities-trader-developer/",
+            "published_at": "2023-10-04T23:32:53+00:00",
+            "source": "Fortune",
+            "author": "Ben Weiss"
+        }
+    },
+    {
+        "chunk": "The fence that separated Israel and the Gaza Strip was completed in December 2021. It was intended to protect against a major security threat, but in practice it was much leaner than that. The fence was almost unmanned by soldiers, and relied mainly on sensors, above and below ground, surveillance cameras, and vehicle patrols. With the fence as protection, manned deployment for Gaza border settlements was cancelled. All allowed the Hamas terrorists to quickly reach the IDF bases along the Gaza border. Israel has been praising the ethos of a small and smart army, implicitly if not explicitly",
+        "metadata": {
+            "category": "business",
+            "title": "Israel's defense undone by reliance on technology",
+            "url": "https://en.globes.co.il/en/article-1001461695#utm_source=RSS",
+            "published_at": "2023-11-05T13:35:33+00:00",
+            "source": "Globes English | Israel Business Arena",
+            "author": "Assaf Gilead"
+        }
+    },
+    {
+        "chunk": "The problem begins when the enemy is also exposed to these means. The Iron Dome system is representative as the technological response to the threat from Gaza. The system was built with the strategic vision of giving decision-makers breathing room. But some say its success was paradoxical as it allowed Hamas to strengthen and gain offensive capabilities. Israel found it difficult to stand up against the significant disruption of daily life on the home front. The Iron Dome did not change the essential strategic situation",
+        "metadata": {
+            "category": "business",
+            "title": "Israel's defense undone by reliance on technology",
+            "url": "https://en.globes.co.il/en/article-1001461695#utm_source=RSS",
+            "published_at": "2023-11-05T13:35:33+00:00",
+            "source": "Globes English | Israel Business Arena",
+            "author": "Assaf Gilead"
+        }
+    },
+    {
+        "chunk": "Intelligence officials are questioning whether there really is a trend towards improvement of early detection and thwarting of strategic threats. \"This is exactly the same type of failure that was at the basis of Israeli thinking at the outbreak of the Yom Kippur War,\" Eiland says. \"They thought the chance of war breaking out was low, they thought it was an exercise, but they didn't calculate the potential damage, they didn’t imagine how serious the extreme scenario could be,\" he adds",
+        "metadata": {
+            "category": "business",
+            "title": "Israel's defense undone by reliance on technology",
+            "url": "https://en.globes.co.il/en/article-1001461695#utm_source=RSS",
+            "published_at": "2023-11-05T13:35:33+00:00",
+            "source": "Globes English | Israel Business Arena",
+            "author": "Assaf Gilead"
+        }
+    },
+    {
+        "chunk": "ASX set to open lower as Wall Street closes September with more losses. Stronger iron ore prices helped to bolster the local bourse on Monday but not enough to offset the prospect of higher-for-longer interest rates. The National Australia Bank has forecast another rate hike to 4. 35 per cent in November. On the losing end of Wall Street were stocks of energy producers, hurt by the slide in oil’s price",
+        "metadata": {
+            "category": "business",
+            "title": "ASX set to open lower as Wall Street closes September with more losses",
+            "url": "https://www.smh.com.au/business/markets/asx-set-to-open-lower-as-wall-street-closes-september-with-more-losses-20231002-p5e8zn.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+            "published_at": "2023-10-01T18:19:08+00:00",
+            "source": "The Sydney Morning Herald",
+            "author": "Stan Choe"
+        }
+    },
+    {
+        "chunk": "Energy stocks in the S&P 500 fell 2 per cent as a group, more than double the loss of any of the other 10 sectors that make up the index. ExxonMobil fell 1. 6 per cent, and Schlumberger dropped 4. 3 per cent",
+        "metadata": {
+            "category": "business",
+            "title": "ASX set to open lower as Wall Street closes September with more losses",
+            "url": "https://www.smh.com.au/business/markets/asx-set-to-open-lower-as-wall-street-closes-september-with-more-losses-20231002-p5e8zn.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+            "published_at": "2023-10-01T18:19:08+00:00",
+            "source": "The Sydney Morning Herald",
+            "author": "Stan Choe"
+        }
+    },
+    {
+        "chunk": "Bank of America says the U. S. housing market looks more like the early 1980s than it does 2008. The 1980s housing crash was caused by the Fed raising interest rates aggressively to quash inflation. Today's housing market is more stable than the 1980s, Bank of America said. Bank of America economists believe that low inventory of existing homes for sale combined with solid home sales to millennials could help put a “floor beneath home prices” But they warn that there won’t be some near-term pain due to higher mortgage rates",
+        "metadata": {
+            "category": "business",
+            "title": "Buckle up for more ‘turbulence’ in the housing market, BofA says—it’s a housing recession, 1980s style",
+            "url": "https://fortune.com/2023/10/06/home-price-outlook-bank-of-america-housing-recession-turbulence-1980s-not-2008/",
+            "published_at": "2023-10-06T20:05:26+00:00",
+            "source": "Fortune",
+            "author": "Will Daniel"
+        }
+    },
+    {
+        "chunk": "Hamas' surprise attack on Israel has shocked many who are now questioning the country's famed intelligence agency Mossad. Some speculated that Mossad knew what was going to happen but let Hamas make a mistake so that Israel could launch a ferocious attack on it. Netanyahu: \"In war, one needs to be level-headed. I call on all citizens of Israel to unite in order to achieve our highest goal – victory in the war\" A user said that knowing the proficiency of the Mossad he found the idea of a \"surprise attack\" to be a willing lie",
+        "metadata": {
+            "category": "business",
+            "title": "&#039;Massive intel failure by Mossad&#039;: Hamas&#039; surprise attack on Israel shocks internet",
+            "url": "https://www.businesstoday.in/latest/world/story/massive-intel-failure-by-mossad-hamas-surprise-attack-on-israel-shocks-internet-401106-2023-10-07?utm_source=rssfeed",
+            "published_at": "2023-10-07T15:37:43+00:00",
+            "source": "Business Today | Latest Stock Market And Economy News India",
+            "author": NaN
+        }
+    },
+    {
+        "chunk": "Israel stopped deliveries of food, fuel and other supplies to Gaza’s 2. 3 million residents on Oct. 10, 2023, and is reportedly preparing for a ground invasion. International aid groups now face the same problem in Gaza that local businesses and residents have encountered for about 16 years. UNRWA funds and runs a network of 284 schools in Gaza alone, employing over 9,000 local people as staff. The U. S. has historically been the single-largest funder of UNRWA, a U. N. agency that relies on governments to support its work. Since the war between Israel and Hamas began on Oct",
+        "metadata": {
+            "category": "business",
+            "title": "Israel's blockade of Gaza means that a region the size of Philadelphia faces a real risk of starvation, says Peace Studies scholar",
+            "url": "https://fortune.com/2023/10/13/israel-blockade-gaza-hamas-war-starvation-food-insecurity/",
+            "published_at": "2023-10-13T19:50:48+00:00",
+            "source": "Fortune",
+            "author": "Topher L. McDougal, The Conversation"
+        }
+    },
+    {
+        "chunk": "8, more than 1,500 Gazans have been killed",
+        "metadata": {
+            "category": "business",
+            "title": "Israel's blockade of Gaza means that a region the size of Philadelphia faces a real risk of starvation, says Peace Studies scholar",
+            "url": "https://fortune.com/2023/10/13/israel-blockade-gaza-hamas-war-starvation-food-insecurity/",
+            "published_at": "2023-10-13T19:50:48+00:00",
+            "source": "Fortune",
+            "author": "Topher L. McDougal, The Conversation"
+        }
+    },
+    {
+        "chunk": "Two of Sam Bankman-Fried's former friends from MIT, who also worked at crypto exchange FTX while living with the company's founder in the Bahamas, took the stand in a Manhattan courtroom this week. Gary Wang, the lesser-known co-founder of FTX, was asked by Assistant U. S. Attorney Nicolas Roos on Thursday, \"Did you commit financial crimes while working at FTX?\" \"Yes,\" responded Wang. Gary Wang, who owned 10% of Alameda, told the court about the advantages that Alameda received by having code baked into FTX's software",
+        "metadata": {
+            "category": "business",
+            "title": "Sex, Signal messages, and sabotaging FTX's code: SBF execs and Bahamas roommates tell all in court",
+            "url": "https://www.cnbc.com/2023/10/06/sex-signal-messages-and-sabotaging-ftxs-code-sbf-criminal-trial.html",
+            "published_at": "2023-10-06T20:17:00+00:00",
+            "source": "Cnbc | World Business News Leader",
+            "author": NaN
+        }
+    },
+    {
+        "chunk": "Wang's testimony, which stretched into Friday, was given under a cooperation agreement with the government. Adam Yedidia, who was the prosecution's second witness on Wednesday, continued his testimony on Thursday. Yedidia said he and Bankman-Fried spoke about it at the pickleball court at the resort in Nassau, Bahamas. He was concerned because it \"seemed like a lot of money\" from FTX customers was at risk. His testimony ended on a fiery note, which was later struck from the record",
+        "metadata": {
+            "category": "business",
+            "title": "Sex, Signal messages, and sabotaging FTX's code: SBF execs and Bahamas roommates tell all in court",
+            "url": "https://www.cnbc.com/2023/10/06/sex-signal-messages-and-sabotaging-ftxs-code-sbf-criminal-trial.html",
+            "published_at": "2023-10-06T20:17:00+00:00",
+            "source": "Cnbc | World Business News Leader",
+            "author": NaN
+        }
+    },
+    {
+        "chunk": "ChatGPT co-founder and CEO Sam Altman has been pushed out of OpenAI. The company says a review found he was “not consistently candid in his communications” with the board. Altman, 38, has become Silicon Valley’s sought-after voice on the promise and potential dangers of artificial intelligence. OpenAI started out as a nonprofit when it launched with financial backing from Tesla CEO Elon Musk and others. Its stated aims were to “advance digital intelligence in the way that is most likely to benefit humanity as a whole, unconstrained by a need to generate financial return. ”",
+        "metadata": {
+            "category": "business",
+            "title": "OpenAI's ex-chairman accuses board of going rogue in firing Altman: 'Sam and I are shocked and saddened by what the board did'",
+            "url": "https://fortune.com/2023/11/18/how-did-openai-fire-sam-altman-greg-brockman-rogue-board/",
+            "published_at": "2023-11-18T15:33:09+00:00",
+            "source": "Fortune",
+            "author": "Matt O'Brien, The Associated Press"
+        }
+    },
+    {
+        "chunk": "Energy companies (down one per cent) weighed down the index. Lynas Rare Earths was the biggest large-cap decliner. The market has now switched from pricing in an 80 per cent chance of a rate rise on Tuesday to 50-50. On Wall Street, the S&P 500 climbed 40. 56 points on Friday. Weak US data is “the only game-changer for markets’, say Bank of America strategists. Analysts said investors were likely disappointed with Apple’s forecast for revenue for the last three months of 2023",
+        "metadata": {
+            "category": "business",
+            "title": "ASX to rise after interest rate hopes boost US shares",
+            "url": "https://www.smh.com.au/business/markets/asx-to-rise-after-interest-rate-hopes-boost-us-shares-20231106-p5ehsi.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+            "published_at": "2023-11-05T20:56:22+00:00",
+            "source": "The Sydney Morning Herald",
+            "author": NaN
+        }
+    },
+    {
+        "chunk": "The men who built pubs and liquor juggernaut Endeavour Group into the world's largest poker machine operator have triggered a public spat",
+        "metadata": {
+            "category": "business",
+            "title": "ASX to rise after interest rate hopes boost US shares",
+            "url": "https://www.smh.com.au/business/markets/asx-to-rise-after-interest-rate-hopes-boost-us-shares-20231106-p5ehsi.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+            "published_at": "2023-11-05T20:56:22+00:00",
+            "source": "The Sydney Morning Herald",
+            "author": NaN
+        }
+    },
+    {
+        "chunk": "Donald Trump defrauded banks with 'fantasy' to build his real estate empire, judge rules. Decision is strongest repudiation yet of Trump’s carefully coiffed image as a wealthy and shrewd real estate mogul turned political powerhouse. Trump has long insisted he did nothing wrong. James is seeking $250 million in penalties for alleged fraud. She wants Trump and his three eldest children banned from ever again running a company based in New York. Trump has been indicted four times in the last six months. The Trump Organization was convicted of tax fraud last year in unrelated criminal case",
+        "metadata": {
+            "category": "business",
+            "title": "Donald Trump defrauded banks with 'fantasy' to build his real estate empire, judge rules in a major repudiation against the former president",
+            "url": "https://fortune.com/2023/09/26/donald-trump-fraud-banks-insurers-real-estate-judge-new-york/",
+            "published_at": "2023-09-26T21:11:15+00:00",
+            "source": "Fortune",
+            "author": "Michael R. Sisak, The Associated Press"
+        }
+    },
+    {
+        "chunk": "Donald Trump's 2021 statement of financial condition, filed as part of the lawsuit, pegged his net worth at $US4. 5 billion. New York state’s valuation of four high-profile Trump properties where the prosecution alleges fraud occurred, along with Bloomberg's own approach to assessing the assets. Trump took the stand and testified that the properties whose values he's accused of inflating were undervalued. Between 2011 and 2016, Trump valued his apartment based on it being 30,000 square feet (2,787 square metres) in size — almost triple its actual measurement of 10,996 square feet",
+        "metadata": {
+            "category": "business",
+            "title": "The $777 million surprise: Donald Trump is getting richer",
+            "url": "https://www.theage.com.au/business/companies/the-777-million-surprise-donald-trump-is-getting-richer-20231108-p5eicf.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+            "published_at": "2023-11-07T22:22:05+00:00",
+            "source": "The Age",
+            "author": "Tom Maloney"
+        }
+    },
+    {
+        "chunk": "New York State arrived at a valuation that was about a third of Trump’s in those years. Between 2014 and 2015, Trump increased the value of the apartment to $US327 million from $US200 million. ‘The company has never been stronger and never been better’ Eric Trump. 40 Wall Street has its own unique problems. Tenant departures meant occupancy slid to 77 per cent in June. Its net operating income is only 61 per cent of what was projected by underwriters. The property is also subject to a ground lease that resets in 2032",
+        "metadata": {
+            "category": "business",
+            "title": "The $777 million surprise: Donald Trump is getting richer",
+            "url": "https://www.theage.com.au/business/companies/the-777-million-surprise-donald-trump-is-getting-richer-20231108-p5eicf.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+            "published_at": "2023-11-07T22:22:05+00:00",
+            "source": "The Age",
+            "author": "Tom Maloney"
+        }
+    }
+]

@@ -1,0 +1,365 @@
+[
+    {
+        "chunk": "Amazon is dragging out the year's biggest shopping holiday(s) into 11 days of deals. The retail giant began its Black Friday sale in the early morning of Friday, Nov. 17. Official Cyber Monday mode includes both a ton of deals carried over from Black Friday plus some new ones. We're curating a running list of Amazon's best Cyber Weekend deals. There's only one pair of Bose over-ear headphones you can grab for just under $200. This classic pair secures top-of-the-line ANC, 20 hours of battery life, and all-day comfort for less than half of the AirPods Max's sale price",
+        "metadata": {
+            "category": "entertainment",
+            "title": "200+ of the best deals from Amazon's Cyber Monday sale",
+            "url": "https://mashable.com/article/cyber-monday-deals-amazon-2023",
+            "published_at": "2023-11-27T08:45:59+00:00",
+            "source": "Mashable",
+            "author": NaN
+        }
+    },
+    {
+        "chunk": "The pair have been married since 1997 and share son Jaden, 25, and daughter Willow, 22. The Fresh Prince of Bel-Air star also has a son Trey, 30, whom he shares with his first wife, Sheree Zampino. Jada and Will have often opened up about their relationship over the years. Jada and Will were introduced in 2015. August Alsina claimed he had an affair with Jada in 2020. Jada confirmed she did have a relationship with August. In 2021, Jada discusses her and Will’s sex life. Will slapped Chris Rock at the 94th annual Oscars",
+        "metadata": {
+            "category": "entertainment",
+            "title": "A timeline of Will Smith and Jada Pinkett Smith’s relationship amid separation",
+            "url": "https://www.independent.co.uk/life-style/love-sex/will-smith-jada-pinkett-relationship-timeline-divorce-b2427925.html",
+            "published_at": "2023-10-12T18:10:45+00:00",
+            "source": "The Independent - Life and Style",
+            "author": "Laura Hampson and Meredith Clark"
+        }
+    },
+    {
+        "chunk": "The altercation came after Rock said: “Jada, I love you. GI Jane 2, can’t wait to see you,” referring to Jada’s shaved head. While accepting the award for Best Actor, Will became teary as said he was a ‘fierce defender of his family’",
+        "metadata": {
+            "category": "entertainment",
+            "title": "A timeline of Will Smith and Jada Pinkett Smith’s relationship amid separation",
+            "url": "https://www.independent.co.uk/life-style/love-sex/will-smith-jada-pinkett-relationship-timeline-divorce-b2427925.html",
+            "published_at": "2023-10-12T18:10:45+00:00",
+            "source": "The Independent - Life and Style",
+            "author": "Laura Hampson and Meredith Clark"
+        }
+    },
+    {
+        "chunk": "Fans spot Travis Kelce wearing Taylor Swift-themed friendship bracelet before she attended his game. The beads on the bracelet appeared to reference Swift’s song “Vigilante S***” from her 2022 album, Midnights. The snap showed Kelce posing at the Kelce Car Jam charity event on Friday 22 September, where he was sporting a beaded friendship bracelet. Kelce revealed that he was still open to pursuing a relationship with Swift. He subtly asked if she’d want to attend one of his football games. “I threw it out there, I threw the ball in her court,” he said",
+        "metadata": {
+            "category": "entertainment",
+            "title": "Fans spot Travis Kelce wearing Taylor Swift-themed friendship bracelet before she attended his game",
+            "url": "https://www.independent.co.uk/life-style/travis-kelce-taylor-swift-friendship-bracelet-b2419065.html",
+            "published_at": "2023-09-26T22:05:34+00:00",
+            "source": "The Independent - Life and Style",
+            "author": "Amber Raiken"
+        }
+    },
+    {
+        "chunk": "Jada Pinkett Smith and Will Smith have been separated since 2016. Relationship expert Susan Winter highlighted the differences between a separation and divorce. Separations can also be beneficial if both individuals are working on themselves and have the goal of reuniting, or making their relationship better. Jada Pinkett Smith and Will Smith have been candid about their plans to not get a divorce. The couple also agreed not to sign a prenup before getting married in 1997. Dating coach Lucas believes couples avoid the inevitable breakup for the sake of comfort. Will Smith and Jada Pinkett Smith have been separated since 2016. Jada revealed in a Red Table Talk episode that she had a relationship with Alsina. In some cases, having separate relationships can give couples the clarity they need. The celebrity couple could stay separated, move back in together as a married pair. “If you feel disrespected by your partner, feel humiliated, or were cheated on, you probably feel ready to split,” Lucas said",
+        "metadata": {
+            "category": "entertainment",
+            "title": "Jada Pinkett Smith and Will Smith have been separated since 2016 - when should couples just get divorced?",
+            "url": "https://www.independent.co.uk/life-style/will-smith-jada-separation-divorce-b2429576.html",
+            "published_at": "2023-10-16T13:41:30+00:00",
+            "source": "The Independent - Life and Style",
+            "author": "Amber Raiken"
+        }
+    },
+    {
+        "chunk": "“I also think a real big one is, if you lose sexual attraction for your partner and you’ve actively tried to get it back and can’t, it’s time to go. ”",
+        "metadata": {
+            "category": "entertainment",
+            "title": "Jada Pinkett Smith and Will Smith have been separated since 2016 - when should couples just get divorced?",
+            "url": "https://www.independent.co.uk/life-style/will-smith-jada-separation-divorce-b2429576.html",
+            "published_at": "2023-10-16T13:41:30+00:00",
+            "source": "The Independent - Life and Style",
+            "author": "Amber Raiken"
+        }
+    },
+    {
+        "chunk": "Kelce and Swift have been linked since the Super Bowl in 2016. The pair have been spotted together in New York and on tour. The two have also been linked on Twitter and in the media. They have also appeared on the same podcast, New Heights. The 12-time Grammy winner appeared to shout “let’s f—ing go” after Kelce scored a touchdown before chest-bumping other Chiefs fans. Swift is known for being an Eagles fan and even references the team in Gold Rush. Her outward support for the Kelce's team seemed extra telling",
+        "metadata": {
+            "category": "entertainment",
+            "title": "When pop culture and sport collide: A timeline of Taylor Swift’s NFL takeover",
+            "url": "https://www.theage.com.au/culture/music/when-pop-culture-and-sport-collide-a-timeline-of-taylor-swift-s-nfl-takeover-20230926-p5e7lu.html?ref=rss&utm_medium=rss&utm_source=rss_culture",
+            "published_at": "2023-09-26T05:26:05+00:00",
+            "source": "The Age",
+            "author": "Nell Geraets"
+        }
+    },
+    {
+        "chunk": "They were also spotted in a “getaway car” together outside the stadium",
+        "metadata": {
+            "category": "entertainment",
+            "title": "When pop culture and sport collide: A timeline of Taylor Swift’s NFL takeover",
+            "url": "https://www.theage.com.au/culture/music/when-pop-culture-and-sport-collide-a-timeline-of-taylor-swift-s-nfl-takeover-20230926-p5e7lu.html?ref=rss&utm_medium=rss&utm_source=rss_culture",
+            "published_at": "2023-09-26T05:26:05+00:00",
+            "source": "The Age",
+            "author": "Nell Geraets"
+        }
+    },
+    {
+        "chunk": "Travis Kelce says he tried to delete his ‘nonsense’ tweets before they went viral. The comments came after some of Kelce’s funny tweets from 2010 and 2011 resurfaced amid his rumoured relationship with Taylor Swift. The Kansas City Chiefs star acknowledged that his posts weren’t really noticed back then. Kelce said he admires Swift’s skills as a musician. “I’ve never been a man of words. Being around her, seeing how smart Taylor is, has been f***ing mind-blowing,” he explained",
+        "metadata": {
+            "category": "entertainment",
+            "title": "Travis Kelce says he tried to delete his ‘nonsense’ tweets before they went viral",
+            "url": "https://www.independent.co.uk/life-style/taylor-swift-travis-kelce-tweets-b2453410.html",
+            "published_at": "2023-11-25T14:50:53+00:00",
+            "source": "The Independent - Life and Style",
+            "author": "Amber Raiken"
+        }
+    },
+    {
+        "chunk": "Swift was chosen among a strong list of contenders, including Chinese President Xi Jinping, King Charles III, the live-action Barbie movie, and Vladimir Putin. The recognition comes on the heels of a whirlwind year for the popstar, whose Eras Tour dominated ticket sales in 2023. Swift said she takes a day to rest and recover before taking the stage once again. The singer has released four “Taylor’s Version” albums: Fearless, Red, Speak Now, and 1989. Swift revealed that the constant attention and swarms of paparazzi won’t stop her",
+        "metadata": {
+            "category": "entertainment",
+            "title": "Taylor Swift is Time’s Person of the Year",
+            "url": "https://www.independent.co.uk/life-style/taylor-swift-time-person-of-the-year-b2459419.html",
+            "published_at": "2023-12-06T13:55:17+00:00",
+            "source": "The Independent - Life and Style",
+            "author": "Chelsea Ritschel"
+        }
+    },
+    {
+        "chunk": "Britney Spears’ memoir, The Woman in Me, will be released on 24 October. The pop star is expected to reflect on some of the most pivotal moments in her life, including her relationships. From Justin Timberlake to Sam Asghari, here’s everything we know about her relationships and rumoured romances. Spears married Kevin Federline in 2004 after just three months of dating. In 2006, they welcomed their second son, Jayden James. The couple divorced in 2006, citing \"irreconcilable differences\" as the reason. Spears and Jason Trawick started dating in 2009 before getting engaged in December 2011",
+        "metadata": {
+            "category": "entertainment",
+            "title": "From Justin Timberlake to Sam Asghari: A timeline of Britney Spears’ relationships",
+            "url": "https://www.independent.co.uk/life-style/justin-timberlake-sam-asghari-britney-spears-b2431507.html",
+            "published_at": "2023-10-18T03:46:39+00:00",
+            "source": "The Independent - Life and Style",
+            "author": "Amber Raiken"
+        }
+    },
+    {
+        "chunk": "They called off their engagement in January 2013. The pair first met in 2016 when Asghari was cast as Spears’ love interest in the music video for her song. They made their relationship Instagram official in 2017 and went on to support each other through different milestones. They officially broke up in June 2015 after eight months of dating",
+        "metadata": {
+            "category": "entertainment",
+            "title": "From Justin Timberlake to Sam Asghari: A timeline of Britney Spears’ relationships",
+            "url": "https://www.independent.co.uk/life-style/justin-timberlake-sam-asghari-britney-spears-b2431507.html",
+            "published_at": "2023-10-18T03:46:39+00:00",
+            "source": "The Independent - Life and Style",
+            "author": "Amber Raiken"
+        }
+    },
+    {
+        "chunk": "Britney Spears has never really known freedom, she writes. By the age of 16, she is public property – incapable of going outside without being mobbed. As the restrictions get tighter, Britney acts out – and ends up legally denied her freedom for 13 years. Britney Spears has written a tell-all book about her relationship with Justin Timberlake. In it, she describes how the singer made her feel like a 'young-girl virgin' She also describes how she suffered from postpartum depression and anxiety. Britney was never allowed to be a real child, nor a real adult",
+        "metadata": {
+            "category": "entertainment",
+            "title": "‘I was being ritually tortured’: the most shocking moments in Britney Spears’ memoir",
+            "url": "https://www.theguardian.com/music/2023/oct/24/britney-spears-memoir-most-shocking-woman-in-me",
+            "published_at": "2023-10-24T18:37:25+00:00",
+            "source": "The Guardian",
+            "author": "Laura Snapes"
+        }
+    },
+    {
+        "chunk": "Her 2001 single I’m Not a Girl, Not Yet a Woman may be her most prescient recording. She is painfully conscious of this divide. After her split from Timberlake, she likens herself to Benjamin Button. Britney writes about how she was always made to feel she was not enough as a kid; her father’s alleged alcoholism, neglect and brutal standards; how her mother always made her feel less-than. She is unsparing about her younger sister, who she characterises as a brat who was spared the pain of her impoverished childhood",
+        "metadata": {
+            "category": "entertainment",
+            "title": "‘I was being ritually tortured’: the most shocking moments in Britney Spears’ memoir",
+            "url": "https://www.theguardian.com/music/2023/oct/24/britney-spears-memoir-most-shocking-woman-in-me",
+            "published_at": "2023-10-24T18:37:25+00:00",
+            "source": "The Guardian",
+            "author": "Laura Snapes"
+        }
+    },
+    {
+        "chunk": "Britney writes that she is working to feel “more compassion than anger” towards them. “By which I mean that I realised I never wanted to see them again, and I was at peace with that,” she writes",
+        "metadata": {
+            "category": "entertainment",
+            "title": "‘I was being ritually tortured’: the most shocking moments in Britney Spears’ memoir",
+            "url": "https://www.theguardian.com/music/2023/oct/24/britney-spears-memoir-most-shocking-woman-in-me",
+            "published_at": "2023-10-24T18:37:25+00:00",
+            "source": "The Guardian",
+            "author": "Laura Snapes"
+        }
+    },
+    {
+        "chunk": "Will Smith has spoken out about his 'tumultuous' relationship with Jada Pinkett Smith. The 55-year-old actor was speaking to a crowd of fans in Baltimore, Maryland. His comments come after Jada made revelations about their marriage in her memoir, Worthy. In an interview with People published on 10 October, Jada first revealed that she and her husband were living separately. “We just got deep love for each other and we are going to figure out what that looks like for us,” she said",
+        "metadata": {
+            "category": "entertainment",
+            "title": "Will Smith speaks to crowd about ‘tumultuous’ relationship with Jada Pinkett Smith",
+            "url": "https://www.independent.co.uk/life-style/will-smith-jada-pinket-marriage-b2432586.html",
+            "published_at": "2023-10-19T16:16:20+00:00",
+            "source": "The Independent - Life and Style",
+            "author": "Amber Raiken"
+        }
+    },
+    {
+        "chunk": "Travis Kelce, 34, made the comments during a February 2023 episode of his and his brother Jason Kelce’s podcast, New Heights. The episode resurfaced after a source claimed to Yahoo Entertainment that Swift and Travis Kelce “have talked about kids” within the next year. On Twitter, fans have called Travis out for his seemingly sexist remarks. Taylor Swift and Travis Kelce have been photographed together on several occasions. On 22 October, Swift returned to Arrowhead Stadium to watch the Kansas City Chiefs win their game against the Los Angeles Chargers",
+        "metadata": {
+            "category": "entertainment",
+            "title": "Travis Kelce faces backlash after comments about ‘finding a breeder’ resurface amid Taylor Swift romance",
+            "url": "https://www.independent.co.uk/life-style/travis-kelce-taylor-swift-children-b2438558.html",
+            "published_at": "2023-10-30T20:56:51+00:00",
+            "source": "The Independent - Life and Style",
+            "author": "Amber Raiken"
+        }
+    },
+    {
+        "chunk": "The occasion marked Swift’s fourth time attending a game with Kelce, amid reports that they are dating",
+        "metadata": {
+            "category": "entertainment",
+            "title": "Travis Kelce faces backlash after comments about ‘finding a breeder’ resurface amid Taylor Swift romance",
+            "url": "https://www.independent.co.uk/life-style/travis-kelce-taylor-swift-children-b2438558.html",
+            "published_at": "2023-10-30T20:56:51+00:00",
+            "source": "The Independent - Life and Style",
+            "author": "Amber Raiken"
+        }
+    },
+    {
+        "chunk": "Buffy the Vampire Slayer star, 46, took to Instagram after her son’s Roblox account was allegedly hacked. Gellar - who shares son Rocky, 11, and daughter Charlotte Grace, 14, with husband Freddie Prinze Jr - shared a screenshot from her iPhone, displaying a notification that her iCloud account “has been disabled” in the App Store and iTunes. “I had to cancel my credit card and now my life is basically cancelled,” she wrote. The episode aired in April 2022. The developer of the minigame was reportedly banned from the online platform when the episode aired",
+        "metadata": {
+            "category": "entertainment",
+            "title": "Sarah Michelle Gellar hits out at Roblox after her son’s account gets hacked",
+            "url": "https://www.independent.co.uk/life-style/sarah-michelle-gellar-roblox-hacked-b2458897.html",
+            "published_at": "2023-12-06T16:45:51+00:00",
+            "source": "The Independent - Life and Style",
+            "author": "Meredith Clark"
+        }
+    },
+    {
+        "chunk": "Roblox confirmed the existence of the game, but explained that the “referenced video was never available on our platform”",
+        "metadata": {
+            "category": "entertainment",
+            "title": "Sarah Michelle Gellar hits out at Roblox after her son’s account gets hacked",
+            "url": "https://www.independent.co.uk/life-style/sarah-michelle-gellar-roblox-hacked-b2458897.html",
+            "published_at": "2023-12-06T16:45:51+00:00",
+            "source": "The Independent - Life and Style",
+            "author": "Meredith Clark"
+        }
+    },
+    {
+        "chunk": "Taylor Swift's biggest album 1989 returns with new tracks from the vault. 1989 is the biggest-selling album of her career, and the one that definitively turned her into a pop star. It was originally written during the 2013-14 Red Tour, with demos stored on her phone in a folder named \"Sailor Twips\" 1989 was seen as a risk by Taylor's record label, but ended up becoming her biggest-selling album to date. The song Out Of The Woods marks a shift in Swift's psychology, as she briefly admits to having been unfaithful",
+        "metadata": {
+            "category": "entertainment",
+            "title": "Taylor Swift's 1989: The stories behind her biggest album",
+            "url": "https://www.bbc.co.uk/news/entertainment-arts-66910595?at_medium=RSS&at_campaign=KARANGA",
+            "published_at": "2023-10-13T23:00:08+00:00",
+            "source": "BBC News - Entertainment & Arts",
+            "author": NaN
+        }
+    },
+    {
+        "chunk": "In interviews, Taylor delighted in revealing this was based on a true story. Swift was beginning to experiment with different vocal styles on 1989. One of her many 2am songs, I Wish You Would, is powered by a choppy, unrelenting guitar line. Bad Blood is a vendetta disguised as a pop song, with a ham-fisted chorus. Taylor's first single, I Know Places, started out as a poem in her journal. She was inspired by her producer Jack Antonoff and his then-girlfriend, Lena Dunham",
+        "metadata": {
+            "category": "entertainment",
+            "title": "Taylor Swift's 1989: The stories behind her biggest album",
+            "url": "https://www.bbc.co.uk/news/entertainment-arts-66910595?at_medium=RSS&at_campaign=KARANGA",
+            "published_at": "2023-10-13T23:00:08+00:00",
+            "source": "BBC News - Entertainment & Arts",
+            "author": NaN
+        }
+    },
+    {
+        "chunk": "You Are In Love is a gently-sung romance inspired by Taylor observing the couple's ease around each other. Taylor's 1989 was re-recorded with five new tracks. New Romantics, one of her most beloved songs, was originally held back as a bonus track. All the new songs were co-written and produced by Jack Antonoff. Taylor admitted she'd been brutal about pruning songs from 1989's original tracklist",
+        "metadata": {
+            "category": "entertainment",
+            "title": "Taylor Swift's 1989: The stories behind her biggest album",
+            "url": "https://www.bbc.co.uk/news/entertainment-arts-66910595?at_medium=RSS&at_campaign=KARANGA",
+            "published_at": "2023-10-13T23:00:08+00:00",
+            "source": "BBC News - Entertainment & Arts",
+            "author": NaN
+        }
+    },
+    {
+        "chunk": "Taylor Swift has revealed when her relationship with Travis Kelce really started. The 33-year-old singer spoke candidly about the romance during a recent interview with Time after she was named the magazine’s 2023 Person of the Year. She said she connected with Kelce in July, after he confessed on his podcast that he tried and failed to give her a friendship bracelet with his number on it. Kelce made his way to Buenos Aires, Argentina, to attend one of her Eras Tour shows",
+        "metadata": {
+            "category": "entertainment",
+            "title": "Taylor Swift reveals secret start to her relationship with Travis Kelce",
+            "url": "https://www.independent.co.uk/life-style/taylor-swift-travis-kelce-relationship-b2459441.html",
+            "published_at": "2023-12-06T14:23:01+00:00",
+            "source": "The Independent - Life and Style",
+            "author": "Amber Raiken"
+        }
+    },
+    {
+        "chunk": "During the concert, Swift gave a shout-out to the Chiefs player when she changed her “Karma” lyrics to reflect their relationship",
+        "metadata": {
+            "category": "entertainment",
+            "title": "Taylor Swift reveals secret start to her relationship with Travis Kelce",
+            "url": "https://www.independent.co.uk/life-style/taylor-swift-travis-kelce-relationship-b2459441.html",
+            "published_at": "2023-12-06T14:23:01+00:00",
+            "source": "The Independent - Life and Style",
+            "author": "Amber Raiken"
+        }
+    },
+    {
+        "chunk": "Britney Spears and Kevin Federline married in September 2004. The couple have two teenage sons, Sean Preston and Jayden. Spears filed for divorce from Federline in November 2006, citing 'irreconcilable differences' In July 2007, they were granted joint legal and physical custody over their children. Spears suffered a mental breakdown in 2008 and was placed on a 5150 psychiatric hold, leaving Federline to retain sole custody of their boys. In February of that year, Spears entered into a conservatorship with her father Jamie Spears, who took complete control over her assets",
+        "metadata": {
+            "category": "entertainment",
+            "title": "Britney Spears and Kevin Federline: A complete timeline of their relationship",
+            "url": "https://www.independent.co.uk/life-style/britney-spears-kevin-federline-relationship-timeline-b2143493.html",
+            "published_at": "2023-10-20T15:02:26+00:00",
+            "source": "The Independent - Life and Style",
+            "author": "Meredith Clark"
+        }
+    },
+    {
+        "chunk": "In June 2022, Spears married her longtime boyfriend Sam Asghari during an intimate ceremony at their Los Angeles home. The singer made a powerful testimony at her conservatorship hearing that June, where she spoke out for the first time about her experience. Following the testimony, Federline expressed his support for the singer, saying he “only hopes the best for her”",
+        "metadata": {
+            "category": "entertainment",
+            "title": "Britney Spears and Kevin Federline: A complete timeline of their relationship",
+            "url": "https://www.independent.co.uk/life-style/britney-spears-kevin-federline-relationship-timeline-b2143493.html",
+            "published_at": "2023-10-20T15:02:26+00:00",
+            "source": "The Independent - Life and Style",
+            "author": "Meredith Clark"
+        }
+    },
+    {
+        "chunk": "Jada Pinkett Smith and Will Smith never signed a prenuptial agreement. The couple were married in 1997 and have two children together. Jada said she and Will knew divorce wasn't in the cards for them. The 52-year-old is currently promoting her memoir, Worthy. Jada made headlines when she revealed that at the time of the 2022 Academy Awards, she and her husband had been separated for six years. “We just got deep love for each other and we are going to figure out what that looks like for us,” she said",
+        "metadata": {
+            "category": "entertainment",
+            "title": "Jada Pinkett Smith reveals why she and Will Smith never signed a prenup",
+            "url": "https://www.independent.co.uk/life-style/jada-pinkett-will-smith-prenup-b2430529.html",
+            "published_at": "2023-10-16T15:48:10+00:00",
+            "source": "The Independent - Life and Style",
+            "author": "Amber Raiken"
+        }
+    },
+    {
+        "chunk": "Twitch has become a platform where sports streamers and fans have flocked. Organizations like the NBA, the NFL, and the UFC have their own Twitch channels. YPulse survey research from April found that 66% of Gen Zers are tuning into platforms like Twitch to follow their favorite sports. Esfand has found other ways to engage with fans on his channel. Esfand’s Tailgate Tour, where he visits college towns and showcases college football culture, resonates strongly with young and global fans. Twitch seems to see value when it comes to investing in sports streamers",
+        "metadata": {
+            "category": "entertainment",
+            "title": "Twitch is the best way to watch sports, when you can actually watch sports on Twitch",
+            "url": "https://www.polygon.com/23923506/sports-streamers-twitch-ufc-nba-nfl-broadcast-rights-streaming",
+            "published_at": "2023-10-20T17:30:00+00:00",
+            "source": "Polygon",
+            "author": "Saleah Blancaflor"
+        }
+    },
+    {
+        "chunk": "The platform launched the Sports Accelerator Program to support sports content creators. “I find that Twitch is where I’m the most engaged with my audiences, and they feel closest to me. I think it’s good for one-on-one. ask me about the race. They asked me three days later about a [soccer] match. They want to talk about it. ”",
+        "metadata": {
+            "category": "entertainment",
+            "title": "Twitch is the best way to watch sports, when you can actually watch sports on Twitch",
+            "url": "https://www.polygon.com/23923506/sports-streamers-twitch-ufc-nba-nfl-broadcast-rights-streaming",
+            "published_at": "2023-10-20T17:30:00+00:00",
+            "source": "Polygon",
+            "author": "Saleah Blancaflor"
+        }
+    },
+    {
+        "chunk": "A power bank is an essential purchase for anyone who’s on the go with a phone, tablet, or a gaming handheld. Power banks range in price depending on a few factors: how compact it is, what kind of ports it has, and how much battery capacity it contains. For more powerful laptops, there are bigger, more powerful batteries to match that can supply up to 140 W of recharging power. That’s currently a top-of-the-line spec, costing significantly more than our other options. Most laptops don’t go above 90 or 100 W at peak USB-C recharging speed",
+        "metadata": {
+            "category": "entertainment",
+            "title": "The best portable chargers for your gear",
+            "url": "https://www.polygon.com/what-to-buy/23672627/best-power-bank-portable-chargers",
+            "published_at": "2023-11-17T13:10:12+00:00",
+            "source": "Polygon",
+            "author": "Cameron Faulkner"
+        }
+    },
+    {
+        "chunk": "Nine years ago, Michelle Andrews and Zara McDonald were both 20 and working entry-level jobs in Melbourne at women’s media company Mamamia. A friendship soon grew out of their shared love of pop culture. Their back-seat chats eventually led to an idea: Shameless – “a pop culture podcast for smart people who love dumb stuff” Fast-forward to today, and the women are now well known as the ‘Shameless girls’ – co-founders of Shameless Media. Ask Shameless answers reader questions about work, dating, friendship and more",
+        "metadata": {
+            "category": "entertainment",
+            "title": "‘Is this worth it?’: The difficult questions the Shameless founders have had to ask each other",
+            "url": "https://www.theage.com.au/lifestyle/life-and-relationships/is-this-worth-it-the-difficult-questions-the-shameless-founders-have-had-to-ask-each-other-20230926-p5e7sv.html?ref=rss&utm_medium=rss&utm_source=rss_lifestyle",
+            "published_at": "2023-10-07T18:00:00+00:00",
+            "source": "The Age",
+            "author": "Gyan Yankovich"
+        }
+    },
+    {
+        "chunk": "The best of these advice columns have been published in a new book, 4am: Answers to the conundrums that keep you up at night. Andrews and McDonald’s second book feels markedly different to their first, The Space Between",
+        "metadata": {
+            "category": "entertainment",
+            "title": "‘Is this worth it?’: The difficult questions the Shameless founders have had to ask each other",
+            "url": "https://www.theage.com.au/lifestyle/life-and-relationships/is-this-worth-it-the-difficult-questions-the-shameless-founders-have-had-to-ask-each-other-20230926-p5e7sv.html?ref=rss&utm_medium=rss&utm_source=rss_lifestyle",
+            "published_at": "2023-10-07T18:00:00+00:00",
+            "source": "The Age",
+            "author": "Gyan Yankovich"
+        }
+    }
+]

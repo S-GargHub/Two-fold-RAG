@@ -1,0 +1,871 @@
+[
+    {
+        "chunk": "Sam Bankman-Fried, the former CEO of FTX, is on trial for fraud and conspiracy. The 31-year-old co-founded FTX in 2019; within a few years the once third-largest crypto exchange’s valuation hit $32 billion. FTX co-founder and former CTO Gary Wang, and Alameda Research’s former CEO, Caroline Ellison, both pleaded guilty in December 2022 to federal criminal charges in relation to the FTX collapse. They’re also facing civil penalties from the U. S. Securities and Exchange Commission (SEC) and Commodity Futures Trading Commission (CFTC) They plan to cooperate with prosecutors and will be major witnesses in the trial",
+        "metadata": {
+            "category": "technology",
+            "title": "SBF’s trial starts soon, but how did he — and FTX — get here?",
+            "url": "https://techcrunch.com/2023/10/01/ftx-lawsuit-timeline/",
+            "published_at": "2023-10-01T14:00:29+00:00",
+            "source": "TechCrunch",
+            "author": "Jacquelyn Melinek"
+        }
+    },
+    {
+        "chunk": "This week, we cover Sam Altman backing a teen's AI startup, Google’s hardware event, Flexport drama, and the ongoing FTX fallout. Also on the agenda: Gmail's harsher rules to prevent spam, TikTok testing an ad-free subscription plan, and LinkedIn going big on AI tools. IronNet, a cybersecurity startup founded by a former NSA director, has shuttered and laid off its remaining staff. Found featured Esther Rodriguez-Villegas from Acurable, a medical device company that makes patient-friendly wearable devices to diagnose and manage respiratory conditions at home",
+        "metadata": {
+            "category": "technology",
+            "title": "Sam Altman backs teens’ startup, Google unveils the Pixel 8 and TikTok tests an ad-free tier",
+            "url": "https://techcrunch.com/2023/10/07/sam-altman-backs-a-teens-startup-google-unveils-the-pixel-8-and-tiktok-tests-an-ad-free-tier/",
+            "published_at": "2023-10-07T20:15:26+00:00",
+            "source": "TechCrunch",
+            "author": "Kyle Wiggers"
+        }
+    },
+    {
+        "chunk": "Eddy Cue, Apple’s senior vice president of software, is testifying in the US v. Google antitrust trial. He was responsible for negotiating the ISA with Google CEO Sundar Pichai. The ISA makes Google the default search engine on all Apple devices and pays Apple billions a year. Apple’s star witness was kept mostly under wraps thanks to complaints and worries about revealing confidential numbers and corporate secrets",
+        "metadata": {
+            "category": "technology",
+            "title": "Apple defends Google Search deal in court: ‘There wasn’t a valid alternative’",
+            "url": "https://www.theverge.com/2023/9/26/23891037/apple-eddy-cue-testimony-us-google",
+            "published_at": "2023-09-26T17:01:22+00:00",
+            "source": "The Verge",
+            "author": "David Pierce"
+        }
+    },
+    {
+        "chunk": "The questions put to Cue were the same ones the DOJ is going to keep asking: Is Google really the best search engine, or is it just the one writing the biggest checks? And if those checks went away, what would the search engine market look like?",
+        "metadata": {
+            "category": "technology",
+            "title": "Apple defends Google Search deal in court: ‘There wasn’t a valid alternative’",
+            "url": "https://www.theverge.com/2023/9/26/23891037/apple-eddy-cue-testimony-us-google",
+            "published_at": "2023-09-26T17:01:22+00:00",
+            "source": "The Verge",
+            "author": "David Pierce"
+        }
+    },
+    {
+        "chunk": "Sam Bankman-Fried is accused of orchestrating one of the biggest financial frauds in American history. A book by Michael Lewis chronicling the rise and fall of SBF will debut on the first day of the trial. The episode has fired up a lot of people, indignant at what they feel was too-easy treatment. Michael Lewis says Sam Alameda, aka SBF, met with Mitch McConnell to discuss how he could fund candidates who were looking to offset Trump’s influence in the Republican Party",
+        "metadata": {
+            "category": "technology",
+            "title": "SBF, riding high on FTX, reportedly offered $5B to Trump to cancel President re-run",
+            "url": "https://techcrunch.com/2023/10/02/sbf-60-minutes/",
+            "published_at": "2023-10-02T13:11:07+00:00",
+            "source": "TechCrunch",
+            "author": "Ingrid Lunden"
+        }
+    },
+    {
+        "chunk": "Lewis also claimed that SBF had concocted a plan to buy off Trump, to get him not to run again for president. The jury will now have to decide how criminal, and how far, his intentions were around that. The failure is indisputable: FTX's failure to prevent financial discrepancies between the exchange and its sister company Alameda Research (a trader itself on the platform)",
+        "metadata": {
+            "category": "technology",
+            "title": "SBF, riding high on FTX, reportedly offered $5B to Trump to cancel President re-run",
+            "url": "https://techcrunch.com/2023/10/02/sbf-60-minutes/",
+            "published_at": "2023-10-02T13:11:07+00:00",
+            "source": "TechCrunch",
+            "author": "Ingrid Lunden"
+        }
+    },
+    {
+        "chunk": "Is Google Search better than the rest? And is that fair? The process of this test did remind me how much data Google collects — not just my searches but anything I say to a smart speaker. The data collection does also mean that Google (not just search but also mobile widgets and other services) personalises to me more effectively. Google’s software is constantly crawling the web and updating its central index, which itself is more than 100 million gigabytes in size. When you enter a query, Search uses a few quick processes to decide the meaning of your question",
+        "metadata": {
+            "category": "technology",
+            "title": "Is Google Search better than the rest? And is that fair?",
+            "url": "https://www.theage.com.au/technology/is-google-search-better-than-the-rest-and-is-that-fair-20231012-p5ebsk.html?ref=rss&utm_medium=rss&utm_source=rss_technology",
+            "published_at": "2023-10-22T18:00:00+00:00",
+            "source": "The Age",
+            "author": "Tim Biggs"
+        }
+    },
+    {
+        "chunk": "Then, beyond just looking for sites with the words you typed in, the system uses machine learning to rank results according to what it thinks you’re looking for. If you allow it, Google does bring in some information it knows about you to further refine results",
+        "metadata": {
+            "category": "technology",
+            "title": "Is Google Search better than the rest? And is that fair?",
+            "url": "https://www.theage.com.au/technology/is-google-search-better-than-the-rest-and-is-that-fair-20231012-p5ebsk.html?ref=rss&utm_medium=rss&utm_source=rss_technology",
+            "published_at": "2023-10-22T18:00:00+00:00",
+            "source": "The Age",
+            "author": "Tim Biggs"
+        }
+    },
+    {
+        "chunk": "News publisher files class action antitrust suit against Google, citing AI’s harms to their bottom line. A new class action lawsuit filed this week in the U. S. District Court in D. C. accuses Google and parent company Alphabet of anticompetitive behavior. Google is being sued by Helena World Chronicle, LLC. The company is seeking class-wide monetary and injunctive relief. The case follows the filing of the U. S. Justice Department’s lawsuit against Google for monopolizing digital ad technologies. Google says the lawsuit is meritless",
+        "metadata": {
+            "category": "technology",
+            "title": "News publisher files class action antitrust suit against Google, citing AI’s harms to their bottom line",
+            "url": "https://techcrunch.com/2023/12/15/news-publisher-files-class-action-antitrust-suit-against-google-citing-ais-harms-to-their-bottom-line/",
+            "published_at": "2023-12-15T17:56:02+00:00",
+            "source": "TechCrunch",
+            "author": "Sarah Perez"
+        }
+    },
+    {
+        "chunk": "EU regulators have sent Amazon a formal statement of objections over its proposed acquisition of robot vacuum maker, iRobot. The step does not confirm the EU will seek to block the deal but it shows antitrust regulators do remain concerned. It could therefore push Amazon to offer remedies to EU authorities to settle the investigation and avoid the risk of the acquisition being blocked. Amazon agreed a series of commitments to end the probes",
+        "metadata": {
+            "category": "technology",
+            "title": "Amazon’s iRobot purchase sucks up formal competition concerns in EU",
+            "url": "https://techcrunch.com/2023/11/27/eu-amazon-irobot-statement-of-objections/",
+            "published_at": "2023-11-27T23:29:10+00:00",
+            "source": "TechCrunch",
+            "author": "Natasha Lomas"
+        }
+    },
+    {
+        "chunk": "The EU’s then competition chief, Margrethe Vestager, trumpeted the outcome as setting what she dubbed “new rules for how Amazon operates its business in Europe” Since then Amazon has also been named a gatekeeper under the new ex ante competition regulation",
+        "metadata": {
+            "category": "technology",
+            "title": "Amazon’s iRobot purchase sucks up formal competition concerns in EU",
+            "url": "https://techcrunch.com/2023/11/27/eu-amazon-irobot-statement-of-objections/",
+            "published_at": "2023-11-27T23:29:10+00:00",
+            "source": "TechCrunch",
+            "author": "Natasha Lomas"
+        }
+    },
+    {
+        "chunk": "Fortnite maker Epic Games will go to trial with Google today, November 6. Epic claims Google engages in anticompetitive behavior with regard to its Android app store, Google Play. Google will counter Epic’s arguments by pointing out that it has rolled out a new option for app developers called User Choice Billing, which Epic has declined to use. Epic Games is suing Google over antitrust claims. Epic claims Google prevented developers from opening their own app stores. Google says Epic Games wants to reach the Play Store’s 2. 5 billion users without having to pay",
+        "metadata": {
+            "category": "technology",
+            "title": "What to know about Fortnite maker Epic Games’ antitrust battle with Google, starting today",
+            "url": "https://techcrunch.com/2023/11/06/what-to-know-about-fortnite-maker-epic-games-antitrust-battle-with-google-starting-today/",
+            "published_at": "2023-11-06T16:47:11+00:00",
+            "source": "TechCrunch",
+            "author": "Sarah Perez"
+        }
+    },
+    {
+        "chunk": "Epic lost its antitrust battle with Apple and is asking the Supreme Court to weigh in",
+        "metadata": {
+            "category": "technology",
+            "title": "What to know about Fortnite maker Epic Games’ antitrust battle with Google, starting today",
+            "url": "https://techcrunch.com/2023/11/06/what-to-know-about-fortnite-maker-epic-games-antitrust-battle-with-google-starting-today/",
+            "published_at": "2023-11-06T16:47:11+00:00",
+            "source": "TechCrunch",
+            "author": "Sarah Perez"
+        }
+    },
+    {
+        "chunk": "ChatGPT, OpenAI’s viral AI chatbot, turns one today. The free-to-use chatbot is the fastest-growing consumer app in history. ChatGPT is a bonafide “user experience breakthrough” — taking generative AI mainstream. ChatGPT can complete and debug code, compose music and essays, answer test questions, generate business ideas, translate and summarize text and even emulate a computer running Linux. The New York Times’ Kevin Roose called ChatGPT the “the best AI chatbot ever released to the general public” ChatGPT could become more a gateway to a broader ecosystem of AI-powered chatbots than the end-all-be-all",
+        "metadata": {
+            "category": "technology",
+            "title": "One year later, ChatGPT is still alive and kicking",
+            "url": "https://techcrunch.com/2023/11/30/one-year-later-chatgpt-is-still-alive-and-kicking/",
+            "published_at": "2023-11-30T14:10:43+00:00",
+            "source": "TechCrunch",
+            "author": "Kyle Wiggers"
+        }
+    },
+    {
+        "chunk": "GPTs introduce a level of personalization far beyond that ChatGPT offers today, and I expect we’ll see an explosion of creativity there",
+        "metadata": {
+            "category": "technology",
+            "title": "One year later, ChatGPT is still alive and kicking",
+            "url": "https://techcrunch.com/2023/11/30/one-year-later-chatgpt-is-still-alive-and-kicking/",
+            "published_at": "2023-11-30T14:10:43+00:00",
+            "source": "TechCrunch",
+            "author": "Kyle Wiggers"
+        }
+    },
+    {
+        "chunk": "ChatGPT, OpenAI’s text-generating AI chatbot, has taken the world by storm. Since its initial launch nearly a year ago, ChatGPT has hit 100 million weekly active users. OpenAI has struck a new deal with Berlin-based news publisher Axel Springer. ChatGPT's mobile apps top 110 million installs and nearly $30M in revenue. City lawmakers in Brazil enacted a piece of legislation written entirely by ChatGPT without even knowing. OpenAI delays the launch of its highly anticipated GPT store to early 2024. ChatGPT Voice is now available to all free users. Sam Altman will not return as OpenAI’s CEO. The company is putting a pause on new subscriptions for its premium ChatGPT Plus offering. A DDoS attack was behind outages affecting ChatG PT and developer tools. ChatGPT has 100 million weekly active users. OpenAI CEO Sam Altman also revealed that over two million developers use the platform, including more than 92% of Fortune 500 companies. ChatGPT can now browse the internet and is no longer limited to data before September 2021. ChatGPT now has a new voice for verbal conversations and image-based smarts. Polish authority publically announced it has opened an investigation regarding ChatGPT",
+        "metadata": {
+            "category": "technology",
+            "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+            "url": "https://techcrunch.com/2023/09/28/chatgpt-everything-to-know-about-the-ai-chatbot/",
+            "published_at": "2023-09-28T20:03:39+00:00",
+            "source": "TechCrunch",
+            "author": "Alyssa Stringer"
+        }
+    },
+    {
+        "chunk": "OpenAI acquires Global Illumination, a New York-based startup leveraging AI. ChatGPT for Android is now available in the US, India, Bangladesh and Brazil. The FTC is reportedly in at least the exploratory phase of investigation over whether OpenAI’s flagship ChatGPT conversational AI made “false, misleading, disparaging or harmful” statements about people. ChatGPT app now available in more than 30 countries, including Algeria, Argentina, Bolivia, Brazil, Canada, Chile, Costa Rica, Ecuador, Estonia, Ghana, India, Iraq, Israel, Japan, Jordan, Kazakhstan, Kuwait, Lebanon, Lithuania, Mauritania, Mauritius, Mexico, Morocco, Namibia, Nauru, Pakistan, Peru, Poland, Qatar, Slovenia, Tunisia and the United Arab Emirates",
+        "metadata": {
+            "category": "technology",
+            "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+            "url": "https://techcrunch.com/2023/09/28/chatgpt-everything-to-know-about-the-ai-chatbot/",
+            "published_at": "2023-09-28T20:03:39+00:00",
+            "source": "TechCrunch",
+            "author": "Alyssa Stringer"
+        }
+    },
+    {
+        "chunk": "FTC warns that AI technology like ChatGPT could ‘turbocharge’ fraud and scams. Italian data protection watchdog lays out what OpenAI needs to do for it to lift an order against ChatG PT issued at the end of last month. SuperChat’s new AI chatbot lets you message historical and fictional characters. OpenAI has started geoblocking access to its generative AI chatbot, ChatGPT, in Italy. 1,100+ signatories signed an open letter asking all ‘AI labs to immediately pause for 6 months’ The letter’s signatories include Elon Musk, Steve Wozniak and Tristan Harris of the Center for Humane Technology",
+        "metadata": {
+            "category": "technology",
+            "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+            "url": "https://techcrunch.com/2023/09/28/chatgpt-everything-to-know-about-the-ai-chatbot/",
+            "published_at": "2023-09-28T20:03:39+00:00",
+            "source": "TechCrunch",
+            "author": "Alyssa Stringer"
+        }
+    },
+    {
+        "chunk": "ChatGPT is a general-purpose chatbot that uses artificial intelligence to generate text after a user enters a prompt. The chatbot uses GPT-4, a large language model that uses deep learning to produce human-like text. ChatGPT can engage with a range of topics, including programming, TV scripts and scientific concepts. ChatGPT can write workable Python code, but it can’t necessarily program an entire app’s worth of code. OpenAI allows users to save chats in the ChatGPT interface, stored in the sidebar of the screen. Apple is developing AI tools to challenge OpenAI, Google and others. ChatGPT is not public, but OpenAI recently disclosed a bug that exposed the titles of some users’ conversations to other people on the service. Text-generating AI models like ChatGPT have a tendency to regurgitate content from their training data",
+        "metadata": {
+            "category": "technology",
+            "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+            "url": "https://techcrunch.com/2023/09/28/chatgpt-everything-to-know-about-the-ai-chatbot/",
+            "published_at": "2023-09-28T20:03:39+00:00",
+            "source": "TechCrunch",
+            "author": "Alyssa Stringer"
+        }
+    },
+    {
+        "chunk": "Sam Bankman-Fried, the founder of failed cryptocurrency exchange FTX, has been found guilty on seven counts including charges of wire fraud. Follow along for all the latest news and regular updates from the trial. The jury finally hears from Sam Bank man-fried. The main thing that’s been clear so far is that the man really loves the sound of his own voice. FTX’s big selling point was its “risk engine,” which was supposed to prevent big losses that would then be spread around all the rest of the customers",
+        "metadata": {
+            "category": "technology",
+            "title": "The jury finally hears from Sam Bankman-Fried",
+            "url": "https://www.theverge.com/2023/10/27/23935683/sam-bankman-fried-ftx-fraud-direct-testimony-jury",
+            "published_at": "2023-10-28T00:12:41+00:00",
+            "source": "The Verge",
+            "author": "Elizabeth Lopatto"
+        }
+    },
+    {
+        "chunk": "Bankman-Fried said he worked 12 to 22 hours a day, and took one day off every couple of months. “At the time, I wasn’t entirely sure what was happening. ” Bankman-Fried directed Ellison to repay Alameda’s lenders, because he thought Alameda was good for it. He also gave BlockFi and Voyager, two crypto lenders, some capital infusions for good measure. He didn’t learn about the $8 billion liability associated with Alameda until October 2022, he said",
+        "metadata": {
+            "category": "technology",
+            "title": "The jury finally hears from Sam Bankman-Fried",
+            "url": "https://www.theverge.com/2023/10/27/23935683/sam-bankman-fried-ftx-fraud-direct-testimony-jury",
+            "published_at": "2023-10-28T00:12:41+00:00",
+            "source": "The Verge",
+            "author": "Elizabeth Lopatto"
+        }
+    },
+    {
+        "chunk": "OpenAI, the AI company behind ChatGPT, has been in turmoil. CEO and co-founder Sam Altman and president Greg Brockman were ousted last week. Microsoft has since hired them to head up a new internal AI unit. The whole debacle has shone a spotlight on the forces that control the AI revolution. A leaked internal memo from Google earlier this year seemed to express fears that despite the huge advances made by proprietary LLM models from the likes of OpenAI, open source AI would ultimately trump them all",
+        "metadata": {
+            "category": "technology",
+            "title": "How the OpenAI fiasco could bolster Meta and the ‘open AI’ movement",
+            "url": "https://techcrunch.com/2023/11/21/how-the-openai-fiasco-could-bolster-meta-and-the-open-ai-movement/",
+            "published_at": "2023-11-21T15:50:50+00:00",
+            "source": "TechCrunch",
+            "author": "Paul Sawers"
+        }
+    },
+    {
+        "chunk": "This highlighted the power and scalability of a more open approach to AI development. Meta is perhaps best positioned to capitalize on the mess that OpenAI has created for itself",
+        "metadata": {
+            "category": "technology",
+            "title": "How the OpenAI fiasco could bolster Meta and the ‘open AI’ movement",
+            "url": "https://techcrunch.com/2023/11/21/how-the-openai-fiasco-could-bolster-meta-and-the-open-ai-movement/",
+            "published_at": "2023-11-21T15:50:50+00:00",
+            "source": "TechCrunch",
+            "author": "Paul Sawers"
+        }
+    },
+    {
+        "chunk": "Sam Bankman-Fried, the founder of failed cryptocurrency exchange FTX, is on trial for seven counts of wire fraud and conspiracy. FTX was a fraud “from the start,” the Securities and Exchange Commission alleges. Follow along for all the latest news and regular updates from the trial. Alameda Research was troubled from her earliest time there in 2018. “He hadn’t known how to tell me,” Ellison said of Bankman-Fried. The goal was to “optically” separate Alameda Research and FTX, she said",
+        "metadata": {
+            "category": "technology",
+            "title": "Sam Bankman-Fried was a terrible boyfriend",
+            "url": "https://www.theverge.com/2023/10/10/23912036/sam-bankman-fried-ftx-caroline-ellison-alameda-research",
+            "published_at": "2023-10-10T23:50:21+00:00",
+            "source": "The Verge",
+            "author": "Elizabeth Lopatto"
+        }
+    },
+    {
+        "chunk": "FTT was one of several “Sam coins,” a nickname for tokens that Bankman-Fried was heavily involved in and owned a lot of, either personally or through Alameda. He directed her to put those coins on the balance sheets Alameda showed to lenders, even though she felt it was “somewhat misleading. ”",
+        "metadata": {
+            "category": "technology",
+            "title": "Sam Bankman-Fried was a terrible boyfriend",
+            "url": "https://www.theverge.com/2023/10/10/23912036/sam-bankman-fried-ftx-caroline-ellison-alameda-research",
+            "published_at": "2023-10-10T23:50:21+00:00",
+            "source": "The Verge",
+            "author": "Elizabeth Lopatto"
+        }
+    },
+    {
+        "chunk": "Instagram users suspect Meta of shadowbanning content about Palestine. The platform has a history of inherent bias. In response to the escalating violence, Meta said it never intends to “suppress a particular community or point of view” Instagram users claim the social media site is suppressing content related to Palestine. Some say their posts were removed after they publicly condemned Israel’s response to the Hamas attack",
+        "metadata": {
+            "category": "technology",
+            "title": "Meta has a moderation bias problem, not just a ‘bug,’ that’s suppressing Palestinian voices",
+            "url": "https://techcrunch.com/2023/10/19/meta-instagram-palestine-israel-shadowban-censorship-moderation-bias/",
+            "published_at": "2023-10-19T23:43:15+00:00",
+            "source": "TechCrunch",
+            "author": "Morgan Sung"
+        }
+    },
+    {
+        "chunk": "Others say they were restricted from posting or going live, while others say Instagram flagged their content as “sensitive” 7amleh has documented multiple cases of journalists reporting the same news in Arabic, Hebrew and English, but only getting flagged for their Arabic content. Instagram and Facebook are flagging images of the al-Ahli Hospital, claiming the content violates Meta’s Community Guidelines on nudity or sexual activity. A report found that Arabic content was flagged as potentially violating at significantly higher rates than Hebrew content",
+        "metadata": {
+            "category": "technology",
+            "title": "Meta has a moderation bias problem, not just a ‘bug,’ that’s suppressing Palestinian voices",
+            "url": "https://techcrunch.com/2023/10/19/meta-instagram-palestine-israel-shadowban-censorship-moderation-bias/",
+            "published_at": "2023-10-19T23:43:15+00:00",
+            "source": "TechCrunch",
+            "author": "Morgan Sung"
+        }
+    },
+    {
+        "chunk": "The report noted that Meta’s moderation system may not be as precise for Arabic content as it was for Hebrew. It suggested that reviewers may lack the linguistic and cultural competence to understand less common Arabic dialects like Palestinian Arabic. Al Saadi said that her frustration with Meta is common among Palestinians, both in occupied territories and across the diaspora. Creators have tried to include an emoji of the Israeli flag or tag their posts and Stories with #istandwithisrael",
+        "metadata": {
+            "category": "technology",
+            "title": "Meta has a moderation bias problem, not just a ‘bug,’ that’s suppressing Palestinian voices",
+            "url": "https://techcrunch.com/2023/10/19/meta-instagram-palestine-israel-shadowban-censorship-moderation-bias/",
+            "published_at": "2023-10-19T23:43:15+00:00",
+            "source": "TechCrunch",
+            "author": "Morgan Sung"
+        }
+    },
+    {
+        "chunk": "A 10-foot alligator is going to be released at a rooftop bar in South Florida, at a party for the people being accused of ruining the internet. The goal is to tell the algorithm whatever it needs to hear for a site to appear as high up as possible in search results. SEO is still relevant for everything from native advertising to social media, says Jairo Bastilla. Bastilla: SEO is now baked into everything from email campaigns to ad campaigns. He met the kind of “modern-day pirate shit” guy he’d been warned about",
+        "metadata": {
+            "category": "technology",
+            "title": "The people who ruined the internet",
+            "url": "https://www.theverge.com/features/23931789/seo-search-engine-optimization-experts-google-results",
+            "published_at": "2023-11-01T13:00:00+00:00",
+            "source": "The Verge",
+            "author": "Amanda Chicago Lewis"
+        }
+    },
+    {
+        "chunk": "The way we behave on the internet is often quite different from how we act in real life. An old contact heard I was writing about SEO and suggested I find a man he called Legendary Lars. Lars Mapstead in Northern California was preparing to run for president in 2024 as a Libertarian. In 1997, an Italian professor published a journal article about what he called Search Engines Persuasion. Almost as soon as Google took over, a secondary market emerged for links",
+        "metadata": {
+            "category": "technology",
+            "title": "The people who ruined the internet",
+            "url": "https://www.theverge.com/features/23931789/seo-search-engine-optimization-experts-google-results",
+            "published_at": "2023-11-01T13:00:00+00:00",
+            "source": "The Verge",
+            "author": "Amanda Chicago Lewis"
+        }
+    },
+    {
+        "chunk": "In 2003, as Google approached the deadline to disclose pertinent business information, the company quietly released an update cracking down. SEO is a form of search engine optimisation. It is a way to rank websites based on a set of criteria. It can be difficult to tell if an algorithm is working properly or if it is just a way of making money for the company. The best SEOs are the ones that follow Google’s rules, which essentially ask you to make amazing websites without even thinking about Google",
+        "metadata": {
+            "category": "technology",
+            "title": "The people who ruined the internet",
+            "url": "https://www.theverge.com/features/23931789/seo-search-engine-optimization-experts-google-results",
+            "published_at": "2023-11-01T13:00:00+00:00",
+            "source": "The Verge",
+            "author": "Amanda Chicago Lewis"
+        }
+    },
+    {
+        "chunk": "Many SEOs do exactly this kind of work: rewriting copy, making a site load more quickly, etc. The existence of good SEOs does not negate the presence of scammers and idiots. Forrester has attended events in Napa, Hawaii, and Barbados, among many others. Forrester more or less stopped drinking at conferences, as had long been the case for his counterpart at Google. Matt Cutts was a celebrity among SEOs, constantly mobbed with questions. When Matt Cutts left Google, some blamed him personally for “killing” companies that had relied on the previous iteration of the algorithm",
+        "metadata": {
+            "category": "technology",
+            "title": "The people who ruined the internet",
+            "url": "https://www.theverge.com/features/23931789/seo-search-engine-optimization-experts-google-results",
+            "published_at": "2023-11-01T13:00:00+00:00",
+            "source": "The Verge",
+            "author": "Amanda Chicago Lewis"
+        }
+    },
+    {
+        "chunk": "During his time at Google, Cutts regularly received death threats and hate mail. One of the people Google brought in was Danny Sullivan, a former journalist who started Search Engine Land. SEO expert Lily Ray says search results are better than they used to be. She says Google's new \"E-E-A-T\" guidelines have changed the way people see results. Ray says the new guidelines are not perfect, but they do make search results better. Google has gotten better over time at catching SEOs playing tricks on the algorithm",
+        "metadata": {
+            "category": "technology",
+            "title": "The people who ruined the internet",
+            "url": "https://www.theverge.com/features/23931789/seo-search-engine-optimization-experts-google-results",
+            "published_at": "2023-11-01T13:00:00+00:00",
+            "source": "The Verge",
+            "author": "Amanda Chicago Lewis"
+        }
+    },
+    {
+        "chunk": "The sheer volume of SEO bait being produced is so massive and so complex that Google is overwhelmed. A lot of the people who did this live cheaply overseas in places like Bali and Chiang Mai. The internet as we know it has been almost entirely defined and controlled by Google. What the SEOs do matters for all of us on a daily basis, distorting how we perceive the world. Yet any money that any SEO has made is a fraction of a crumb compared to Google’s 10-layer cake. These days, Lee runs a construction company",
+        "metadata": {
+            "category": "technology",
+            "title": "The people who ruined the internet",
+            "url": "https://www.theverge.com/features/23931789/seo-search-engine-optimization-experts-google-results",
+            "published_at": "2023-11-01T13:00:00+00:00",
+            "source": "The Verge",
+            "author": "Amanda Chicago Lewis"
+        }
+    },
+    {
+        "chunk": "Lee is the kind of guy who has spent a lot of time thinking about his place in the world. He understands that he needs to make money to survive, but he’d like to do so in a way that is minimally harmful",
+        "metadata": {
+            "category": "technology",
+            "title": "The people who ruined the internet",
+            "url": "https://www.theverge.com/features/23931789/seo-search-engine-optimization-experts-google-results",
+            "published_at": "2023-11-01T13:00:00+00:00",
+            "source": "The Verge",
+            "author": "Amanda Chicago Lewis"
+        }
+    },
+    {
+        "chunk": "Google’s Gemini is its new flagship generative AI model meant to power a range of products and services. A “lite” version of Gemini, Gemini Pro, began rolling out to Bard yesterday. Users began voicing their frustrations with it on X (formerly Twitter) Gemini Pro isn’t immune to “jailbreaks” — i. e. prompts that get around the safety filters in place to attempt to prevent it from discussing controversial topics. Researchers at Robust Intelligence managed to get Gemini Pro to suggest ways to steal from a charity and assassinate a high-profile individual (albeit with “nanobots”)",
+        "metadata": {
+            "category": "technology",
+            "title": "Early impressions of Google’s Gemini aren’t great",
+            "url": "https://techcrunch.com/2023/12/07/early-impressions-of-googles-gemini-arent-great/",
+            "published_at": "2023-12-07T16:12:30+00:00",
+            "source": "TechCrunch",
+            "author": "Kyle Wiggers"
+        }
+    },
+    {
+        "chunk": "Thai Food Near Me is named after a literal Google search. The restaurant is optimized for the digital platforms diners use to find places nearby. The name is a small but powerful symbol of Google’s far-reaching impact on businesses. The term “Thai food near me” is searched, on average, nearly a million times a month in the US. “Near me’ is a top autofilled search suggestion on both Search and Maps. Google pulls in other data to serve results to users, like location, reviews or ratings",
+        "metadata": {
+            "category": "technology",
+            "title": "The restaurant nearest Google",
+            "url": "https://www.theverge.com/2023/10/26/23931825/google-search-local-seo-thai-food-near-me-maps",
+            "published_at": "2023-10-26T13:00:00+00:00",
+            "source": "The Verge",
+            "author": "Mia Sato"
+        }
+    },
+    {
+        "chunk": "Thai Food Near Me is the fifth Thai restaurant to occupy the same location, according to defunct websites. The restaurant’s “secret menu” has speciality dishes. The name is part — but not all — of the branding. The owners have tweaked their menu and modification options on delivery apps like Uber Eats or DoorDash. It’s a savvy business decision, Sampson says, and a way to get — and keep — loyal customers. “I think it did more than we could have ever imagined it would do,” he says",
+        "metadata": {
+            "category": "technology",
+            "title": "The restaurant nearest Google",
+            "url": "https://www.theverge.com/2023/10/26/23931825/google-search-local-seo-thai-food-near-me-maps",
+            "published_at": "2023-10-26T13:00:00+00:00",
+            "source": "The Verge",
+            "author": "Mia Sato"
+        }
+    },
+    {
+        "chunk": "European consumer groups band together to fight Meta’s self-serving ad-free sub — branding it ‘unfair’ and ‘illegal’ European Consumer Organisation (BEUC) announced the complaint will be filed with the network of consumer protection authorities (CPC) today. The ‘pay or okay’ model Meta is seeking to impose on EU users wasn’t actually its invention; it was ‘pioneered’ in Austria, by the daily newspaper Der Standard. The adtech giant also said that when it was claiming performance of a contract and then legitimate interests for the processing — both of which were subsequently found to be incompatible with the GDPR",
+        "metadata": {
+            "category": "technology",
+            "title": "European consumer groups band together to fight Meta’s self-serving ad-free sub — branding it ‘unfair’ and ‘illegal’",
+            "url": "https://techcrunch.com/2023/11/29/beuc-cpc-meta-complaint/",
+            "published_at": "2023-11-30T05:00:57+00:00",
+            "source": "TechCrunch",
+            "author": "Natasha Lomas"
+        }
+    },
+    {
+        "chunk": "The European Commission itself has an additional oversight role on Meta directly. The company is also subject to the EU’s shiny new Digital Markets Act (DMA) and Digital Services Act. In the latter case its social networks, Facebook and Instagram, were designated as very large online platforms (VLOPs)",
+        "metadata": {
+            "category": "technology",
+            "title": "European consumer groups band together to fight Meta’s self-serving ad-free sub — branding it ‘unfair’ and ‘illegal’",
+            "url": "https://techcrunch.com/2023/11/29/beuc-cpc-meta-complaint/",
+            "published_at": "2023-11-30T05:00:57+00:00",
+            "source": "TechCrunch",
+            "author": "Natasha Lomas"
+        }
+    },
+    {
+        "chunk": "Elon Musk’s X marks the spot of the first confirmed investigation opened by the European Union under its rebooted digital rulebook, the Digital Services Act (DSA) The European Commission said the investigation will look at whether the social networking platform may have breached rules linked to risk management, content moderation, dark patterns, advertising transparency and data access for researchers. The EU can also apply interim measures where it believes there’s a risk of serious harm for users and may even seek to have access to infringing services temporarily blocked",
+        "metadata": {
+            "category": "technology",
+            "title": "Elon Musk’s X faces first DSA probe in EU over illegal content risks, moderation, transparency and deceptive UX design",
+            "url": "https://techcrunch.com/2023/12/18/x-dsa-probe/",
+            "published_at": "2023-12-18T13:04:56+00:00",
+            "source": "TechCrunch",
+            "author": "Natasha Lomas"
+        }
+    },
+    {
+        "chunk": "The online governance regime can face a range of major sanctions, including fines of up to 6% of global annual turnover",
+        "metadata": {
+            "category": "technology",
+            "title": "Elon Musk’s X faces first DSA probe in EU over illegal content risks, moderation, transparency and deceptive UX design",
+            "url": "https://techcrunch.com/2023/12/18/x-dsa-probe/",
+            "published_at": "2023-12-18T13:04:56+00:00",
+            "source": "TechCrunch",
+            "author": "Natasha Lomas"
+        }
+    },
+    {
+        "chunk": "The Steam Deck OLED is a mid-cycle refresh from Valve, similar to the Switch OLED upgrade. It has a wider P3 color gamut, pure blacks and a peak brightness of 1,000 nits, compared with the original max of 400 nits. The screen on the new model doesn’t support variable refresh rates (VRR), but it now tops out at 90Hz, while the original could only hit 60Hz. The Steam Deck OLED is sharper and more responsive. indie games, AAA games and plain old Steam menus look so much better on the new hardware",
+        "metadata": {
+            "category": "technology",
+            "title": "Steam Deck OLED review: It's just better",
+            "url": "https://www.engadget.com/steam-deck-oled-review-its-just-better-180038030.html?src=rss",
+            "published_at": "2023-11-09T18:00:38+00:00",
+            "source": "Engadget",
+            "author": "Jessica Conditt"
+        }
+    },
+    {
+        "chunk": "The new model even comes with an extra-long, 2. 5m charging cable, designed specifically with couch-based players in mind. The Steam Deck OLED is the facetuned, photoshopped, spit-shined version of Valve’s handheld. The updated display is the highlight of the device, while things like faster charging, improved antennas and smoother haptics are welcome bonuses. For now, the OLED model is a half-step toward the Steam Deck 2",
+        "metadata": {
+            "category": "technology",
+            "title": "Steam Deck OLED review: It's just better",
+            "url": "https://www.engadget.com/steam-deck-oled-review-its-just-better-180038030.html?src=rss",
+            "published_at": "2023-11-09T18:00:38+00:00",
+            "source": "Engadget",
+            "author": "Jessica Conditt"
+        }
+    },
+    {
+        "chunk": "Epic Games CEO Tim Sweeney watched every day of the Google antitrust trial in person. Jury found Google had an illegal monopoly over Android app distribution and in-app payment systems. Sweeney: \"It was just awesome to see that the justice system works, even with the most complex type of tech antitrust case\" Epic Games says it was disconcerting to see the extent of bad faith efforts by Google. Epic says Google’s Project Hug was an astonishingly corrupt effort at a massive scale. Spotify is the one company that had comparable negotiating power to Fortnite, Epic says",
+        "metadata": {
+            "category": "technology",
+            "title": "Tim Sweeney on Epic’s victory royale over Google",
+            "url": "https://www.theverge.com/23996474/epic-tim-sweeney-interview-win-google-antitrust-lawsuit-district-court",
+            "published_at": "2023-12-12T19:17:14+00:00",
+            "source": "The Verge",
+            "author": "Sean Hollister"
+        }
+    },
+    {
+        "chunk": "Roxanne Jones says she's disappointed in Apple and Google. She says both companies have been too secretive about their plans. Jones: \"I think it's a mistake for them to be secretive about what they're doing\" She says they should make it easier for developers to compete with Apple. Epic will appeal the verdict in the Google Play Store case. The company says it will be open to everybody on Android as it is on PC. Epic is planning to launch the new Marvel season with a bunch of Star Wars content",
+        "metadata": {
+            "category": "technology",
+            "title": "Tim Sweeney on Epic’s victory royale over Google",
+            "url": "https://www.theverge.com/23996474/epic-tim-sweeney-interview-win-google-antitrust-lawsuit-district-court",
+            "published_at": "2023-12-12T19:17:14+00:00",
+            "source": "The Verge",
+            "author": "Sean Hollister"
+        }
+    },
+    {
+        "chunk": "The Epic Games Store is the store operated by Epic Games. Tim Sweeney says he plays as Jellie in Fortnite. Epic will continue to fight for all developers, seeking remedies, he says. Epic Games Store is the untold success story in the background, says Sweeney. Epic internally said it might pursue an aggressive pursuit model in October 2019",
+        "metadata": {
+            "category": "technology",
+            "title": "Tim Sweeney on Epic’s victory royale over Google",
+            "url": "https://www.theverge.com/23996474/epic-tim-sweeney-interview-win-google-antitrust-lawsuit-district-court",
+            "published_at": "2023-12-12T19:17:14+00:00",
+            "source": "The Verge",
+            "author": "Sean Hollister"
+        }
+    },
+    {
+        "chunk": "Sam Bankman-Fried, the founder of failed cryptocurrency exchange FTX, is on trial for seven counts of wire fraud and conspiracy. The trial is likely to be more consequential than just whether the man himself is found guilty. Depending on what evidence is introduced during the trial, it could be rough for the entire crypto industry. Bankman-Fried’s fall from grace was another mark against an industry that was already roiled by bankruptcies and scandals. Prosecutors must show that certain transactions took place. The government can use his own words to further establish intent. Defense lawyers have several simultaneous objectives",
+        "metadata": {
+            "category": "technology",
+            "title": "The FTX trial is bigger than Sam Bankman-Fried",
+            "url": "https://www.theverge.com/2023/9/28/23893269/ftx-sam-bankman-fried-trial-evidence-crypto",
+            "published_at": "2023-09-28T12:00:00+00:00",
+            "source": "The Verge",
+            "author": "Elizabeth Lopatto"
+        }
+    },
+    {
+        "chunk": "Bankman-Fried brought forward messages from a crypto group chat in testimony he planned to give before Congress. That may not fly in a court of law, but it could absolutely damage public perception of crypto at large. It’s possible other messages from group chats may be brought into evidence during the trial",
+        "metadata": {
+            "category": "technology",
+            "title": "The FTX trial is bigger than Sam Bankman-Fried",
+            "url": "https://www.theverge.com/2023/9/28/23893269/ftx-sam-bankman-fried-trial-evidence-crypto",
+            "published_at": "2023-09-28T12:00:00+00:00",
+            "source": "The Verge",
+            "author": "Elizabeth Lopatto"
+        }
+    },
+    {
+        "chunk": "Google CEO Sundar Pichai testified Monday in the U. S. government’s antitrust trial against the company. The executive defended Google's deal with Apple and other partners to make Google the default search engine. The lawsuit stems from a 2020 antitrust claim over Google's dominance in the online search market. Pichai said that he took action against the history-off default for chat in February to comply with the DOJ’s litigation hold",
+        "metadata": {
+            "category": "technology",
+            "title": "5 things we learned so far about the Google antitrust case",
+            "url": "https://techcrunch.com/2023/10/30/5-things-we-learned-so-far-about-the-google-antitrust-case/",
+            "published_at": "2023-10-31T02:30:32+00:00",
+            "source": "TechCrunch",
+            "author": "Rebecca Bellan"
+        }
+    },
+    {
+        "chunk": "Pichai responded that he wanted to discuss a personnel matter and the subject had nothing to do with the litigation hold, which he said he takes great care to compliance with",
+        "metadata": {
+            "category": "technology",
+            "title": "5 things we learned so far about the Google antitrust case",
+            "url": "https://techcrunch.com/2023/10/30/5-things-we-learned-so-far-about-the-google-antitrust-case/",
+            "published_at": "2023-10-31T02:30:32+00:00",
+            "source": "TechCrunch",
+            "author": "Rebecca Bellan"
+        }
+    },
+    {
+        "chunk": "Artists across industries are strategizing together around AI concerns. Fight for the Future partnered with music industry labor group United Musicians and Allied Workers to launch #AIdayofaction. The idea is that by preventing industry behemoths like major record labels from copyrighting music made with AI, those companies will be forced to keep looping humans into the creative process. WGA representative: Fight for artists’ livelihoods “doesn’t stop at the bargaining table. ” “Art is fundamentally human,” FTC commissioner Rebecca Slaughter said. “Humans may use technology to assist in creating art, but something cannot be art without human input”",
+        "metadata": {
+            "category": "technology",
+            "title": "Creatives across industries are strategizing together around AI concerns",
+            "url": "https://techcrunch.com/2023/10/06/creatives-across-industries-are-strategizing-together-around-ai-concerns/",
+            "published_at": "2023-10-06T23:04:57+00:00",
+            "source": "TechCrunch",
+            "author": "Taylor Hatmaker"
+        }
+    },
+    {
+        "chunk": "Apple is holding an event called \"Scary Fast\" on October 30 at 8PM ET. The company is expected to unveil a new MacBook Pro and a new 24-inch iMac. Rumors point to an M3 chip to power the new Macs. The next iPad Pro will probably need more changes to make it more palatable for anyone who picked up the previous two models. With the focus likely to be on M3-powered products, the chances are that any new iPad will be of the Pro variety with one of those chips inside",
+        "metadata": {
+            "category": "technology",
+            "title": "What we expect at Apple's Scary Fast event: M3-powered MacBook Pros and new iMacs",
+            "url": "https://www.engadget.com/what-we-expect-at-apples-scary-fast-event-m3-powered-macbook-pros-and-new-imacs-191549274.html?src=rss",
+            "published_at": "2023-10-26T19:15:49+00:00",
+            "source": "Engadget",
+            "author": "Kris Holt"
+        }
+    },
+    {
+        "chunk": "Sam Bankman-Fried, the founder of failed cryptocurrency exchange FTX, is on trial for seven counts of wire fraud and conspiracy. The defense absolutely biffed the cross-examination of Caroline Ellison and was unable to keep a recording of an all-hands meeting from being played for the jury. The prosecution complained that Bankman-Fried was visibly scoffing at Ellison’s answers, according to the court transcript. Ellison was fastidious about making sure a question was clear and her answer was precise. At one point, Ellison appeared to even be toying with Cohen. The prosecution has put together a strong indictment of Bankman-Fried’s behavior",
+        "metadata": {
+            "category": "technology",
+            "title": "How is it still getting worse for Sam Bankman-Fried?",
+            "url": "https://www.theverge.com/2023/10/12/23915108/sam-bankman-fried-ftx-alameda-caroline-ellison-lawyers",
+            "published_at": "2023-10-12T23:08:14+00:00",
+            "source": "The Verge",
+            "author": "Elizabeth Lopatto"
+        }
+    },
+    {
+        "chunk": "The defense, so far, has managed to do almost nothing in response. I don’t know if Cohen and Everdell have bad facts, a bad client, or are simply untalented themselves",
+        "metadata": {
+            "category": "technology",
+            "title": "How is it still getting worse for Sam Bankman-Fried?",
+            "url": "https://www.theverge.com/2023/10/12/23915108/sam-bankman-fried-ftx-alameda-caroline-ellison-lawyers",
+            "published_at": "2023-10-12T23:08:14+00:00",
+            "source": "The Verge",
+            "author": "Elizabeth Lopatto"
+        }
+    },
+    {
+        "chunk": "Billionaire and AI evangelist Sam Altman has been ejected from his CEO role at OpenAI. Here are some totally speculative theories that occurred to us and others around the web. Did Altman circumvent the board in a major deal? Could Microsoft have been working with — or against — OpenAI’s patron in secret? OpenAI CEO Sam Altman was fired on Friday. The company has been accused of using pirated books to build its chatbot. The board said Altman had downplayed the company’s potential copyright liability. Altman is a proud techno-optimist and often speaks fondly of AGI",
+        "metadata": {
+            "category": "technology",
+            "title": "WTF is going on at OpenAI? We have theories",
+            "url": "https://techcrunch.com/2023/11/17/wtf-is-going-on-at-openai-sam-altman-fired/",
+            "published_at": "2023-11-18T00:09:53+00:00",
+            "source": "TechCrunch",
+            "author": "Devin Coldewey"
+        }
+    },
+    {
+        "chunk": "The company is fine and they’ll get a fresh CEO soon. Expect to hear a lot of rumors before we hear the real thing",
+        "metadata": {
+            "category": "technology",
+            "title": "WTF is going on at OpenAI? We have theories",
+            "url": "https://techcrunch.com/2023/11/17/wtf-is-going-on-at-openai-sam-altman-fired/",
+            "published_at": "2023-11-18T00:09:53+00:00",
+            "source": "TechCrunch",
+            "author": "Devin Coldewey"
+        }
+    },
+    {
+        "chunk": "Meta says it’s prioritizing livestreaming checks during Israel-Hamas war. European Union regulators earlier this week issued a content moderation warning. The company confirms it's made some changes in light of fast moving events in Israel and Gaza. The pan-EU regulation won’t start operating until early next year (Feburary 17) It requires an advisory body, called the European Board for Digital Services, to be operational so it can recommend the Commission to adopt a crisis response mechanism. Penalties for failing to comply with the regulation can reach as high as 6% of global annual turnover",
+        "metadata": {
+            "category": "technology",
+            "title": "Meta says it’s prioritizing livestreaming checks during Israel-Hamas war",
+            "url": "https://techcrunch.com/2023/10/13/meta-israel-hamas-war-response/",
+            "published_at": "2023-10-13T12:43:45+00:00",
+            "source": "TechCrunch",
+            "author": "Natasha Lomas"
+        }
+    },
+    {
+        "chunk": "Uber reported third-quarter earnings on Tuesday that show a profitable ride-hail and delivery company. The company reported revenue of $9. 3 billion, an 11% increase year over year. Uber reported net income of $221 million in the third quarter, or 10 cents per share, compared with a net loss of $1. 2 billion in the same quarter last year. Uber’s ride-hailing and delivery business saw an uptick in gross bookings in the third quarter. Uber Freight experienced a 27% drop year-over-year. The question is whether Uber believes in the long-term income potential of freight",
+        "metadata": {
+            "category": "technology",
+            "title": "Uber’s Q3 numbers include impressive profitability gains, slower-than-expected growth",
+            "url": "https://techcrunch.com/2023/11/07/ubers-q3-numbers-profitability-gains/",
+            "published_at": "2023-11-07T17:03:41+00:00",
+            "source": "TechCrunch",
+            "author": "Kirsten Korosec"
+        }
+    },
+    {
+        "chunk": "OpenAI is going to be a changed company after the leadership shake-up in November. The “app store for AI’ will be pushed hard as the platform to get your AI toys and tools. The limits of monolithic LLMs will become clearer in 2024. Apple is expected to launch a new AI service in 2024. The company has an established pattern of waiting, watching and learning from other companies’ failures. 2024 will bring new lawsuits pertaining to misuse and abuse of AI. The U. S",
+        "metadata": {
+            "category": "technology",
+            "title": "8 predictions for AI in 2024",
+            "url": "https://techcrunch.com/2023/12/19/8-predictions-for-ai-in-2024/",
+            "published_at": "2023-12-19T16:19:34+00:00",
+            "source": "TechCrunch",
+            "author": "Devin Coldewey"
+        }
+    },
+    {
+        "chunk": "government and electorate will be too busy with the trash fire that will be the 2024 election. Generated video and audio will join the fray, and though neither are perfect, they’re good enough to be believable given a bit of fuzzing. The clip doesn’t have to be perfect, because it will be presented as a grainy zoomed-in cellphone capture in a dark room",
+        "metadata": {
+            "category": "technology",
+            "title": "8 predictions for AI in 2024",
+            "url": "https://techcrunch.com/2023/12/19/8-predictions-for-ai-in-2024/",
+            "published_at": "2023-12-19T16:19:34+00:00",
+            "source": "TechCrunch",
+            "author": "Devin Coldewey"
+        }
+    },
+    {
+        "chunk": "Hundreds of women have filed lawsuits against Uber claiming the company hasn’t done enough to prevent instances of sexual assault by drivers. A panel of judges has ruled that more than 80 cases can be consolidated into federal court. The outcome of the case could result in sweeping changes to Uber’s platform, which plaintiffs argue will reduce sexual assault. Uber has published two safety reports — one containing data from 2017 to 2018 and another with data from 2019 to 2020",
+        "metadata": {
+            "category": "technology",
+            "title": "Uber sexual assault survivors call for in-car cameras, tech upgrades",
+            "url": "https://techcrunch.com/2023/10/13/uber-sexual-assault-survivors-call-for-in-car-cameras-tech-upgrades/",
+            "published_at": "2023-10-13T19:26:48+00:00",
+            "source": "TechCrunch",
+            "author": "Rebecca Bellan"
+        }
+    },
+    {
+        "chunk": "The ride-hail company claims that the rate of sexual assault reported on the app decreased 38% between its first and second reports. While the rate decrease is positive, not all the data delivers the same message",
+        "metadata": {
+            "category": "technology",
+            "title": "Uber sexual assault survivors call for in-car cameras, tech upgrades",
+            "url": "https://techcrunch.com/2023/10/13/uber-sexual-assault-survivors-call-for-in-car-cameras-tech-upgrades/",
+            "published_at": "2023-10-13T19:26:48+00:00",
+            "source": "TechCrunch",
+            "author": "Rebecca Bellan"
+        }
+    },
+    {
+        "chunk": "Spotify reported an operating profit for the first time in a year. The adage that “content is king” no longer applies, with Spotify increasingly focusing on tools that will scale the business rather than content that will attract listeners. CEO Daniel Ek pointed to Spotify’s new AI-driven translation product. Joe Rogan Experience is the most-searched podcast. PodBam released a list of the 40 most-Searched podcasts. It is no surprise that Rogan is number one. Call Her Daddy and This American Life are second and third",
+        "metadata": {
+            "category": "technology",
+            "title": "The new, ‘efficient’ Spotify has a very different approach to podcasting",
+            "url": "https://www.theverge.com/2023/10/25/23931833/spotify-efficient-daniel-ek-rogan-cooper-ai",
+            "published_at": "2023-10-25T16:10:29+00:00",
+            "source": "The Verge",
+            "author": "Ariel Shapiro"
+        }
+    },
+    {
+        "chunk": "Amazon Prime Day Part II is here, and that means a fresh batch of Prime Day deals. Most of these deals require a Prime membership, but you can snag a 30-day free trial. We'll update this guide regularly throughout Prime Day by adding fresh deals and removing dead deals. The Razer Blade 14 earned an 8/10, WIRED Recommends award in our review. It has a gorgeous 16:10 display, plenty of USB ports, and a full-size HDMI output. The Das Keyboard MacTigr pairs well with Apple's laptops and PCs. The 2nd-generation Apple Watch SE is our top pick for most people",
+        "metadata": {
+            "category": "technology",
+            "title": "78 Absolute Best October Prime Day Deals (2023)",
+            "url": "https://www.wired.com/story/best-october-prime-day-deals-2023-5/",
+            "published_at": "2023-10-10T14:23:00+00:00",
+            "source": "Wired",
+            "author": "Scott Gilbertson"
+        }
+    },
+    {
+        "chunk": "Google's Pixel Tablet is part tablet, part smart display. Garmin Epix Pro holds the title of Best Outdoor Watch in our Best Fitness Trackers guide. Motorola Razr+ is also on sale for $800 ($100 off) Ugreen's charger is, as the name suggests, a 145-watt charger with a 25,000-mAh battery. Backbone One (8/10, WIRED recommends) slides open to cradle your phone and is very responsive. Anker makes our favorite lists often, including with this super compact 3-in-1 wireless charger. The Jabra Elite 7 Active top the list of our favorite workout earbuds",
+        "metadata": {
+            "category": "technology",
+            "title": "78 Absolute Best October Prime Day Deals (2023)",
+            "url": "https://www.wired.com/story/best-october-prime-day-deals-2023-5/",
+            "published_at": "2023-10-10T14:23:00+00:00",
+            "source": "Wired",
+            "author": "Scott Gilbertson"
+        }
+    },
+    {
+        "chunk": "Anker's Liberty 4 NC earbud are another feature-packed pair of buds with great noise canceling. Sony's LinkBuds (8/10, WIRED Recommends) allow you to hear what's going on around you. The NutriBullet Smart Touch Blender comes with a 1,500-watt motor base with a 64-ounce pitcher. The AeroGarden goes on sale all the time, but the price is right. Le Creuset's enameled cast iron dishes are one of our favorites. Amazon has a bunch of candy on sale right now, with prices starting at $2. Ninja's Max XL is notable for its space-saving design",
+        "metadata": {
+            "category": "technology",
+            "title": "78 Absolute Best October Prime Day Deals (2023)",
+            "url": "https://www.wired.com/story/best-october-prime-day-deals-2023-5/",
+            "published_at": "2023-10-10T14:23:00+00:00",
+            "source": "Wired",
+            "author": "Scott Gilbertson"
+        }
+    },
+    {
+        "chunk": "The Victorinox is still a great kitchen knife and well worth grabbing at this price. The Barista Touch is a coffee shop in a machine. The Midnight Luxe has six layers of foam and individually wrapped inner springs. Brooklinen's weighted blanket is 12 pounds but feels sufficiently weighty. The Netgear Nighthawk series of routers make up some of the picks in our Best Routers guide. Eero's Pro 6E makes home security easy to set up and expand on as needed. Tile's Stickers can come in handy if you're constantly losing remotes",
+        "metadata": {
+            "category": "technology",
+            "title": "78 Absolute Best October Prime Day Deals (2023)",
+            "url": "https://www.wired.com/story/best-october-prime-day-deals-2023-5/",
+            "published_at": "2023-10-10T14:23:00+00:00",
+            "source": "Wired",
+            "author": "Scott Gilbertson"
+        }
+    },
+    {
+        "chunk": "The KQi3 has a great range going 18 to 20 miles for most people. Withings Body Cardio is cheaper normally, and even better on this sale. The Google Nest Hub Max has a nice big screen and slim, powerful speakers. Therabody's Smart Goggles use heat, vibrations, and light pressure to massage your eyes and temples. Enter code WOOF25 at checkout to see this discount. The Tushy is affordable and, as far as bidets go, easy to install on practically any toilet. The Multigroom Series 9000 comes with an adjustable guide from 1 to 3 millimeters",
+        "metadata": {
+            "category": "technology",
+            "title": "78 Absolute Best October Prime Day Deals (2023)",
+            "url": "https://www.wired.com/story/best-october-prime-day-deals-2023-5/",
+            "published_at": "2023-10-10T14:23:00+00:00",
+            "source": "Wired",
+            "author": "Scott Gilbertson"
+        }
+    },
+    {
+        "chunk": "The Dyson Supersonic is one of the best hair dryers you can buy. At this price, you could pick one up for each member of the family. Orolay coats consistently go viral because they're budget-friendly and warm. The Shark AI Ultra 2-in-1 is our favorite vac-mop combo in our Best Robot Vacuums guide. The Eufy X9 Pro is the best mopping vacuum we've tried. The Bissell Little Green Machine Carpet Cleaner is a match of the lowest price we tend to see. Bissell's cordless carpet cleaner is great at sucking grime out of your carpet",
+        "metadata": {
+            "category": "technology",
+            "title": "78 Absolute Best October Prime Day Deals (2023)",
+            "url": "https://www.wired.com/story/best-october-prime-day-deals-2023-5/",
+            "published_at": "2023-10-10T14:23:00+00:00",
+            "source": "Wired",
+            "author": "Scott Gilbertson"
+        }
+    },
+    {
+        "chunk": "Samsung's The Frame looks like art when not in use, helping it blend into the background. LEGO has the answer for you: artificial flowers that range from roses, poppies, daises and snapdragons. The Hisense U8K is among the best-value TVs we've ever seen. The JBL Bar 1300X comes with detachable wireless speakers. The Roku Streambar is small enough that it's ideal for homes where space is at a premium. GoPro recently dropped the price of the Hero10 Black (8/10, WIRED Recommends) to $249. The deal nets you an extra battery, case, small tripod, and other accessories",
+        "metadata": {
+            "category": "technology",
+            "title": "78 Absolute Best October Prime Day Deals (2023)",
+            "url": "https://www.wired.com/story/best-october-prime-day-deals-2023-5/",
+            "published_at": "2023-10-10T14:23:00+00:00",
+            "source": "Wired",
+            "author": "Scott Gilbertson"
+        }
+    },
+    {
+        "chunk": "Samsung's T7 external solid-state drives are among the WIRED gear team's favorites. Amazon's second big sale event runs from Tuesday, October 10 through Wednesday, October 11, 2023. Most of these Prime Day deals are for subscribers only. Retailers like Best Buy and Walmart are also price-matching some items or throwing their own competing sales",
+        "metadata": {
+            "category": "technology",
+            "title": "78 Absolute Best October Prime Day Deals (2023)",
+            "url": "https://www.wired.com/story/best-october-prime-day-deals-2023-5/",
+            "published_at": "2023-10-10T14:23:00+00:00",
+            "source": "Wired",
+            "author": "Scott Gilbertson"
+        }
+    },
+    {
+        "chunk": "Amazon's new Kindle Paperwhite e-reader starts at $99. 99. The new base Kindle wasn’t the only model Amazon introduced in 2022. Amazon also introduced a new Kindle Kids, which is identical to the standard model but comes with a handful of accessories. Amazon’s latest Kindle Paperwhite is its 11th-gen model, which comes with USB-C support, longer battery life, and a larger 6. 8-inch display. The Kindle Oasis is the most expensive of the lineup, starting at $249. 99. Amazon and Best Buy are both selling the kid-friendly ebook reader for $144. 99 ($25)",
+        "metadata": {
+            "category": "technology",
+            "title": "Here are the best Kindle deals right now",
+            "url": "https://www.theverge.com/21539047/best-amazon-kindle-deals",
+            "published_at": "2023-10-16T21:40:46+00:00",
+            "source": "The Verge",
+            "author": "Sheena Vasani"
+        }
+    },
+    {
+        "chunk": "The Steam Deck OLED arrives November 16 with an improved screen and longer battery life. The original Steam Deck had a 7-inch 800p LCD running at 60Hz. The new model squeezes a 7. 4-inch OLED screen into the same space, significantly shrinking the bezels around the display. The Steam Deck OLED will be available to order on November 16th at 1PM ET. There's also a Limited Edition version of the 1TB model, with a translucent shell and a customized carry case, which will be sold at $679. The updated pricing on the existing LCD models is already in effect",
+        "metadata": {
+            "category": "technology",
+            "title": "The Steam Deck OLED arrives November 16 with an improved screen and longer battery life",
+            "url": "https://www.engadget.com/the-steam-deck-oled-arrives-november-16-with-an-improved-screen-and-longer-battery-life-180032945.html?src=rss",
+            "published_at": "2023-11-09T18:00:32+00:00",
+            "source": "Engadget",
+            "author": "Jessica Conditt,Aaron Souppouris"
+        }
+    },
+    {
+        "chunk": "EU says incoming rules for general purpose AIs can evolve over time. EU says incoming Rules for General Purpose AIs (GPAIs) can evolve. EU Commission confirms it will have powers to update the threshold over time via implementing/delegating acts (i. e. secondary legislation) Artificial intelligence systems that fall in the high risk tier of the AI Act will face tougher transparency requirements. They must proactively test model outputs to shrink risks of actual (or “reasonably foreseeable”) negative effects on public health, safety, public security, fundamental rights, or for society as a whole",
+        "metadata": {
+            "category": "technology",
+            "title": "EU says incoming rules for general purpose AIs can evolve over time",
+            "url": "https://techcrunch.com/2023/12/11/eu-ai-act-gpai-rules-evolve/",
+            "published_at": "2023-12-11T17:57:55+00:00",
+            "source": "TechCrunch",
+            "author": "Natasha Lomas"
+        }
+    },
+    {
+        "chunk": "“Low tier” GPAIs will only face lighter transparency requirements, including obligations to apply watermarking. The list of strictly prohibited use-cases of AI will apply sooner, just six months after the law enters into force. This could, potentially, mean bans on certain ‘unacceptable risk’ uses of AI, such as social scoring",
+        "metadata": {
+            "category": "technology",
+            "title": "EU says incoming rules for general purpose AIs can evolve over time",
+            "url": "https://techcrunch.com/2023/12/11/eu-ai-act-gpai-rules-evolve/",
+            "published_at": "2023-12-11T17:57:55+00:00",
+            "source": "TechCrunch",
+            "author": "Natasha Lomas"
+        }
+    },
+    {
+        "chunk": "The Samsung S95C is one of our favorite TVs, thanks to its quantum dot OLED panel. The NZXT Function is a great jumping-off point for mechanical keyboards. The SteelSeries Prime Wireless Mouse is our top pick overall for gaming mice. Google Pixel Buds A-Series (8/10, WIRED Recommends) are our top overall earbuds pick. They get up to five hours of battery life, IPX4 water resistance for workouts, and nearly instant pairing with Android devices. For Samsung owners, the Galaxy Buds2 Pro are one of our top earbud picks",
+        "metadata": {
+            "category": "technology",
+            "title": "14 Best Deals: TVs, Keyboards, Mice, Chargers, and Earbuds",
+            "url": "https://www.wired.com/story/midweek-deals-october-19-2023/",
+            "published_at": "2023-10-19T15:56:15+00:00",
+            "source": "Wired",
+            "author": "Eric Ravenscraft"
+        }
+    },
+    {
+        "chunk": "Amazon's Delivering the Future event was held in Seattle this week. Tye Brady, Amazon’s chief technologist, spoke about the company's robotics efforts. Brady also discussed Amazon's Prime Air service and its new drones. He also talked about Amazon's pilots with Agility's Digit system. An Amazon, MIT/Ipsos partnership designed to gauge what both workers and consumers think about industrial robots. Amazon has more than 750,000 mobile robots in its operations and thousands of other robotic systems that help move, sort, identify and package customer orders. An Amazon rep noted, “Every one of our teams is working on building generative AI applications” Amazon is looking at ways to integrate robots into warehouses. The company has invested in companies like Agility and Proteus. Amazon is also looking at bipedal robots to test their ability to move on different terrains. Amazon Robotics is in the very early stages of developing its own robots, says Jeff Bezos. Amazon has 750,000 robots, including mobile robots and sortation robots. The company is working on ways to combine robots with human workers",
+        "metadata": {
+            "category": "technology",
+            "title": "Amazon’s Tye Brady discusses generative AI, humanoid robots and mobile manipulation",
+            "url": "https://techcrunch.com/2023/10/28/2620382/",
+            "published_at": "2023-10-28T13:04:25+00:00",
+            "source": "TechCrunch",
+            "author": "Brian Heater"
+        }
+    },
+    {
+        "chunk": "Amazon is working with MIT to develop a robot that could replace a certain job. The technology could be used to replace menial, repetitive jobs",
+        "metadata": {
+            "category": "technology",
+            "title": "Amazon’s Tye Brady discusses generative AI, humanoid robots and mobile manipulation",
+            "url": "https://techcrunch.com/2023/10/28/2620382/",
+            "published_at": "2023-10-28T13:04:25+00:00",
+            "source": "TechCrunch",
+            "author": "Brian Heater"
+        }
+    }
+]

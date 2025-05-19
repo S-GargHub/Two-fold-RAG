@@ -1,0 +1,816 @@
+[
+    {
+        "chunk": "The Springboks beat the All Blacks 12-11 in an instant classic at the Stade de France. It was South Africa's fourth World Cup triumph and their third in a row. The All Blacks captain Sam Cane was forced to watch the match from the sidelines after being shown a yellow card. The Springboks took a 12-3 lead after 34 minutes when the All Blacks once again failed to release on their goal line. The All Blacks managed to cut the deficit to 12-6 after 37 minutes when Eben Etzebeth was caught offside and denied his opponents some quick ball",
+        "metadata": {
+            "category": "sports",
+            "title": "THE GREATEST! Boks beat All Blacks in instant classic to claim record FOURTH RWC in controversial, dramatic final",
+            "url": "https://www.theroar.com.au/2023/10/29/the-greatest-boks-beat-all-blacks-in-instant-classic-to-claim-record-fourth-rwc-in-controversial-dramatic-final/",
+            "published_at": "2023-10-28T21:06:03+00:00",
+            "source": "The Roar | Sports Writers Blog",
+            "author": "Christy Doran"
+        }
+    },
+    {
+        "chunk": "Will Jordan, the impressive young outside back who scored eight tries, had a difficult night. The Springboks held on for a remarkable victory over the All Blacks. A single point would prove",
+        "metadata": {
+            "category": "sports",
+            "title": "THE GREATEST! Boks beat All Blacks in instant classic to claim record FOURTH RWC in controversial, dramatic final",
+            "url": "https://www.theroar.com.au/2023/10/29/the-greatest-boks-beat-all-blacks-in-instant-classic-to-claim-record-fourth-rwc-in-controversial-dramatic-final/",
+            "published_at": "2023-10-28T21:06:03+00:00",
+            "source": "The Roar | Sports Writers Blog",
+            "author": "Christy Doran"
+        }
+    },
+    {
+        "chunk": "The All Blacks have downplayed Rieko Ioane's gestures towards Ireland fans and retiring great Johnny Sexton. Michael Cheika embraced the underdog status and said he was hoping Los Pumas “inspired” Argentina “not by our results but by our ambition” The All Blacks are 18-point favourites for the opening semi-final. The Wallabies lost in the 2015 final. Cheika has maintained that his Los Pumas side was too tight earlier in the tournament but has begun to free themselves up since qualifying for the knockout stages. The other team are heavy favourites, everyone is expecting a New Zealand and South Africa final",
+        "metadata": {
+            "category": "sports",
+            "title": "‘It happens’: All Blacks defend star centre after spray as Cheika heaps pressure on ‘favourites’ New Zealand",
+            "url": "https://www.theroar.com.au/2023/10/19/it-happens-all-blacks-defend-star-centre-after-spray-as-cheika-heaps-pressure-on-favourites-new-zealand/",
+            "published_at": "2023-10-18T20:55:55+00:00",
+            "source": "The Roar | Sports Writers Blog",
+            "author": "Christy Doran"
+        }
+    },
+    {
+        "chunk": "Line shopping is the key that unlocks the best odds and lines at top sports betting sites. The best sportsbooks employ oddsmakers and oddsmaking services to set their lines and odds. The betting is rarely the same at every sportsbook. Shop around, and you can find opportunities to lay less and win more. Shopping lines will help you consistently find the best prices on your bets. It won't help you pick more winners, but it will improve your chances and lead to bigger wins and more affordable losses. Most online betting sites don’t stray too far from the Vegas line",
+        "metadata": {
+            "category": "sports",
+            "title": "Line Shopping in Sports Betting - How to Find the Best Odds",
+            "url": "https://www.sportingnews.com/us/betting/news/line-shopping/0f917db9336b2772ba044571",
+            "published_at": "2023-11-06T22:21:05+00:00",
+            "source": "Sporting News",
+            "author": "Martin Derbyshire"
+        }
+    },
+    {
+        "chunk": "Moneyline betting distills sports to their essence: cheering for a victor. \"Favorites\" and \"underdogs\" refer to the perceived stronger and weaker participants. Decimal, fractional, and American Odds are the most common betting formats. Oddsmakers set odds for an event before releasing them to the public. As games progress, lines continue to evolve based on team performances. If too many wagers favor one outcome, sportsbooks adjust the odds to balance the bets. Winning a moneyline bet is very straightforward. A loss simply means that the team or individual you bet on did not win. Moneyline odds are presented with either a positive (+) or negative (-) sign. A negative moneyline indicates the favorite and a positive sign indicates the underdog. Moneyline odds for a game between the New York Yankees and the Boston Red Sox might look like this: If you bet $120 on the Yankees and they win, you'd earn $100. If there's a tie in a moneyline bet, it is typically referred to as a \"push\" When a push occurs, bettors are refunded their original wager",
+        "metadata": {
+            "category": "sports",
+            "title": "Moneyline Betting - What is the Moneyline and How Does it Work?",
+            "url": "https://www.sportingnews.com/us/betting/news/moneyline-betting/d3a60119341b3da02f1fb1ae",
+            "published_at": "2023-11-01T21:25:48+00:00",
+            "source": "Sporting News",
+            "author": "Sam Eggleston"
+        }
+    },
+    {
+        "chunk": "In most sports and with most sportsbooks, overtime (or any extra time or tiebreakers) does count in aMoneyline bet",
+        "metadata": {
+            "category": "sports",
+            "title": "Moneyline Betting - What is the Moneyline and How Does it Work?",
+            "url": "https://www.sportingnews.com/us/betting/news/moneyline-betting/d3a60119341b3da02f1fb1ae",
+            "published_at": "2023-11-01T21:25:48+00:00",
+            "source": "Sporting News",
+            "author": "Sam Eggleston"
+        }
+    },
+    {
+        "chunk": "Bettors can wager on which player they believe will win the coveted NBA Rookie of the Year award as part of NBA futures betting. This can be bet on before the start of the NBA regular season and throughout the year. The best NBA betting apps make it simple and convenient. FanDuel Sportsbook offers competitive odds for NBA ROTY and has one of the best sports betting apps. BetMGM offers many deposit and withdrawal options and 24/7 customer service. Caesars has a competitive welcome bonus for new players and runs NBA betting promos",
+        "metadata": {
+            "category": "sports",
+            "title": "NBA Rookie of the Year Odds - Wembanyama the early favorite",
+            "url": "https://www.sportingnews.com/us/betting/news/nba-roty-odds/7af3a635d324b28ff4c554fd",
+            "published_at": "2023-10-04T22:54:23+00:00",
+            "source": "Sporting News",
+            "author": "Sam Eggleston"
+        }
+    },
+    {
+        "chunk": "The NBA is the second-most popular odds market to bet on in the US, behind NFL betting odds. Legal online sportsbooks have a wide selection of NBA futures you can bet on. NBA game lines (moneylines, point spreads, and totals) are the most popular",
+        "metadata": {
+            "category": "sports",
+            "title": "NBA Rookie of the Year Odds - Wembanyama the early favorite",
+            "url": "https://www.sportingnews.com/us/betting/news/nba-roty-odds/7af3a635d324b28ff4c554fd",
+            "published_at": "2023-10-04T22:54:23+00:00",
+            "source": "Sporting News",
+            "author": "Sam Eggleston"
+        }
+    },
+    {
+        "chunk": "West Indies beat England by four wickets to go 1-0 up in the T20 series. Andre Russell and Rovman Powell hit winning runs off the final over. Russell named Player of the Match after taking 3-29 in his first T20 in over two years. Rain stops play (West Indies 108-4 and require 64 runs off 44 balls) West Indies are six runs ahead of the Duckworth Lewis Stern rate. If the rain doesn’t abate – and it looks heavy at the moment – then the home side will take the spoils. West Indies need 73 from 60 balls to win",
+        "metadata": {
+            "category": "sports",
+            "title": "West Indies v England: first T20 international – live",
+            "url": "https://www.theguardian.com/sport/live/2023/dec/12/west-indies-v-england-first-t20-international-cricket-live",
+            "published_at": "2023-12-12T21:49:56+00:00",
+            "source": "The Guardian",
+            "author": "James Wallace"
+        }
+    },
+    {
+        "chunk": "Kyle Mayers c Brook b Rashid 35 (West Indies 79-3) The sorcerer follows his apprentice and bags a wicket first ball. Nicholas Pooran is the new man and his clip for one is the only run from the over. West Indies start the day on 32-1, with Brandon King top scoring. Ben Duckett pulls off a spectacular diving catch off a full blooded cut shot from King. Kyle Mayers cuts for three behind point and then King skips jauntily out of his crease to skim the ball for four down the ground",
+        "metadata": {
+            "category": "sports",
+            "title": "West Indies v England: first T20 international – live",
+            "url": "https://www.theguardian.com/sport/live/2023/dec/12/west-indies-v-england-first-t20-international-cricket-live",
+            "published_at": "2023-12-12T21:49:56+00:00",
+            "source": "The Guardian",
+            "author": "James Wallace"
+        }
+    },
+    {
+        "chunk": "Andre Russell on his comeback for West Indies takes 3-19",
+        "metadata": {
+            "category": "sports",
+            "title": "West Indies v England: first T20 international – live",
+            "url": "https://www.theguardian.com/sport/live/2023/dec/12/west-indies-v-england-first-t20-international-cricket-live",
+            "published_at": "2023-12-12T21:49:56+00:00",
+            "source": "The Guardian",
+            "author": "James Wallace"
+        }
+    },
+    {
+        "chunk": "West Indies beat England by four wickets to win the series 3-2. Shai Hope hit a six over extra cover to seal the win for the Windies. Jos Buttler says England didn't adapt quickly enough with the bat. Phil Salt has had a brilliant series. West Indies are 21 runs away from a hat-trick of T20 series wins this year. West Indies need 20 from 21 balls to win the series. Rashid finishes with figures of 4-0-21-2 but will end on the losing side. Rehan Ahmed’s first over disappears for 12. West Indies need 103 from 17 overs. England needed early wickets to have a realistic chance of victory. England thought he had edged the next ball to the keeper, though eventually they ran out of time to review. England were 109 for four after 14 overs, and then the house fell down. West Indies need 133 to win the series. Adil Rashid sacrifices himself, just like in the 2019 World Cup final, so that Sam Curran can stay on strike. Russell, who bowled really well, finishes with two for 25",
+        "metadata": {
+            "category": "sports",
+            "title": "West Indies v England: fifth and deciding men’s T20 cricket international – live",
+            "url": "https://www.theguardian.com/sport/live/2023/dec/21/west-indies-v-england-fifth-and-deciding-mens-t20-cricket-international-live",
+            "published_at": "2023-12-21T19:39:01+00:00",
+            "source": "The Guardian",
+            "author": "Rob Smyth"
+        }
+    },
+    {
+        "chunk": "Kentucky sports betting has thrived since retail and online sportsbooks launched in September 2023. The governor has announced that roughly one month since the launch, upwards of $250 million has been wagered. Since there are no restrictions on which sports can be wagered on or what kind of prop bets can be placed, anyone using Kentucky sports betting sites can place bets on everything from football to college basketball games. Sportsbooks often offer generous promotions and bonuses, especially for new customers",
+        "metadata": {
+            "category": "sports",
+            "title": "2023 Kentucky online sports betting sites: Best legal sportsbooks, promos, bonuses, mobile apps, how to bet",
+            "url": "https://www.cbssports.com/general/news/2023-kentucky-online-sports-betting-sites-best-legal-sportsbooks-promos-bonuses-mobile-apps-how-to-bet/",
+            "published_at": "2023-10-13T21:17:17+00:00",
+            "source": "CBSSports.com",
+            "author": "CBS Sports Staff"
+        }
+    },
+    {
+        "chunk": "Fanatics offers up to 5% FanCash on every bet, which you can use to for more bets or team gear from Fanatics. DraftKings offers a variety of betting markets and its rewards program caters especially to those who are daily fantasy sports players. Kentucky Wildcats: One of the most iconic college basketball programs in the nation. Louisville Cardinals: Louisville basketball won the more recent national title, cutting down the nets in 2013",
+        "metadata": {
+            "category": "sports",
+            "title": "2023 Kentucky online sports betting sites: Best legal sportsbooks, promos, bonuses, mobile apps, how to bet",
+            "url": "https://www.cbssports.com/general/news/2023-kentucky-online-sports-betting-sites-best-legal-sportsbooks-promos-bonuses-mobile-apps-how-to-bet/",
+            "published_at": "2023-10-13T21:17:17+00:00",
+            "source": "CBSSports.com",
+            "author": "CBS Sports Staff"
+        }
+    },
+    {
+        "chunk": "Cincinnati Bengals: With no \"Big Four\" professional sports teams playing within state lines, many Kentucky residents look just north of the state's border to cheer on the neighboring Bengals. With an outright bet, bettors choose one athlete -- or thoroughbred -- to win an entire sporting event. Kentucky is one of the 18 states that allows you to place prop bets on collegiate athletes. A push is a bet where neither the bettor or the sportsbook wins",
+        "metadata": {
+            "category": "sports",
+            "title": "2023 Kentucky online sports betting sites: Best legal sportsbooks, promos, bonuses, mobile apps, how to bet",
+            "url": "https://www.cbssports.com/general/news/2023-kentucky-online-sports-betting-sites-best-legal-sportsbooks-promos-bonuses-mobile-apps-how-to-bet/",
+            "published_at": "2023-10-13T21:17:17+00:00",
+            "source": "CBSSports.com",
+            "author": "CBS Sports Staff"
+        }
+    },
+    {
+        "chunk": "Vermont's new online sports betting law authorizes up to six sites to launch in the state. FanDuel, DraftKings and Fanatics are already scheduled to launch on Jan. 11, 2024. Some Vermont sportsbooks are already offering \"prelive\" offers ahead of their launches. FanDuel Sportsbook VT will also feature the same welcome offer it has in other states, inviting new sign-ups to bet at least $5 and get $200 in Bonus Bets. DraftKings is likewise already known to Vermont sports fans thanks to its popular DFS site, and many will surely be gravitating to the DraftKings Sportsbook. BetMGM has applied for an online sports betting license and should be one of the new sites in Vermont. When DraftKings Sportsbook Vermont launches, the site will feature the same multi-part welcome offer it has in other states. BetMGM is generous with bonuses and promos, too, with free pools, ongoing refer-a-friend bonuses and more. Vermont's new sports betting law allows for as many as six online sportsbooks. Fanatics Sportsbook is already scheduled to launch in Vermont in Jan. 2024. ESPN Bet Sportsbook has also applied to operate an online sportsbook in Vermont",
+        "metadata": {
+            "category": "sports",
+            "title": "Vermont Sportsbook Promos and Sports Betting Launch News",
+            "url": "https://www.sportingnews.com/us/betting/news/vermont-sportsbook-promos/b4779ea9b7172cc57a201b0f",
+            "published_at": "2023-09-26T22:53:28+00:00",
+            "source": "Sporting News",
+            "author": "Martin Harris"
+        }
+    },
+    {
+        "chunk": "BetRivers has a lot to offer and many have found it a great choice elsewhere. BetRivers also has a “second chance” welcome offer that gives new sign-ups a free bet refund worth up to $500 should they lose their first bet. Vermont has no teams in the four major US pro sports leagues. However, state residents have been known to support Boston-based teams, like the Red Sox (MLB), the Celtics (NBA), the Bruins (NHL), and the Patriots (NFL) You can expect Vermont online sportsbooks to run related promos to attract fans",
+        "metadata": {
+            "category": "sports",
+            "title": "Vermont Sportsbook Promos and Sports Betting Launch News",
+            "url": "https://www.sportingnews.com/us/betting/news/vermont-sportsbook-promos/b4779ea9b7172cc57a201b0f",
+            "published_at": "2023-09-26T22:53:28+00:00",
+            "source": "Sporting News",
+            "author": "Martin Harris"
+        }
+    },
+    {
+        "chunk": "Alvaro Barreal's 78th-minute goal is enough to secure victory for FC Cincinnati. Inter Miami are officially OUT of the MLS playoff race, as tonight's defeat coupled with CF Montreal's 4-0 victory over Portland are enough to see them eliminated. Lionel Messi returned to play 35 minutes off the bench, but by the time he stepped on the pitch, Inter Miami’s early dominance had come and gone. Alvaro Barreal scores late winner for FC Cincinnati. Lionel Messi comes on for Luciano Acosta in the second half. Inter Miami hit the post three times in the first half",
+        "metadata": {
+            "category": "sports",
+            "title": "Inter Miami vs FC Cincinnati live score, result, updates, highlights with Lionel Messi's MLS playoffs on line",
+            "url": "https://www.sportingnews.com/us/soccer/news/inter-miami-vs-fc-cincinnati-live-score-result-highlights-mls/6288f57a14a413f02512e266",
+            "published_at": "2023-10-07T21:30:00+00:00",
+            "source": "Sporting News",
+            "author": "Kyle Bonn"
+        }
+    },
+    {
+        "chunk": "Drake Callender comes up huge twice to deny Inter Miami. Lionel Messi begins to warm up on the touchline, and he may be brought on soon. Inter Miami were so unlucky not to cash in on multiple occasions, hitting the woodwork an insane three times, all in the first 30 minutes. FC Cincinnati had one really good look that they missed as well but otherwise were on their heels. Lionel Messi is on the bench for Inter Miami against FC Cincinnati. The match kicks off at 7:30 p. m",
+        "metadata": {
+            "category": "sports",
+            "title": "Inter Miami vs FC Cincinnati live score, result, updates, highlights with Lionel Messi's MLS playoffs on line",
+            "url": "https://www.sportingnews.com/us/soccer/news/inter-miami-vs-fc-cincinnati-live-score-result-highlights-mls/6288f57a14a413f02512e266",
+            "published_at": "2023-10-07T21:30:00+00:00",
+            "source": "Sporting News",
+            "author": "Kyle Bonn"
+        }
+    },
+    {
+        "chunk": "ET so there will be a slight delay from the time of the kick-off. La Familia — Inter Miami’s supporters’ groups — are mostly sitting here before kickoff. They are in protest of the increased price of season tickets for 2024. Inter Miami must win tonight to ensure they remain alive in the playoff race. A draw or a loss would see them vulnerable to outside results. FC Cincinnati won the Supporters' Shield as the regular season champion. Lionel Messi was nominated for MLS Newcomer of the Year for the 2023 season",
+        "metadata": {
+            "category": "sports",
+            "title": "Inter Miami vs FC Cincinnati live score, result, updates, highlights with Lionel Messi's MLS playoffs on line",
+            "url": "https://www.sportingnews.com/us/soccer/news/inter-miami-vs-fc-cincinnati-live-score-result-highlights-mls/6288f57a14a413f02512e266",
+            "published_at": "2023-10-07T21:30:00+00:00",
+            "source": "Sporting News",
+            "author": "Kyle Bonn"
+        }
+    },
+    {
+        "chunk": "Lionel Messi could make his return from injury for Inter Miami. Jordi Alba remains sidelined with a hamstring injury. Luciano Acosta was partially rested midweek but is ready to go. Alvas Powell is suspended for the match after being sent off",
+        "metadata": {
+            "category": "sports",
+            "title": "Inter Miami vs FC Cincinnati live score, result, updates, highlights with Lionel Messi's MLS playoffs on line",
+            "url": "https://www.sportingnews.com/us/soccer/news/inter-miami-vs-fc-cincinnati-live-score-result-highlights-mls/6288f57a14a413f02512e266",
+            "published_at": "2023-10-07T21:30:00+00:00",
+            "source": "Sporting News",
+            "author": "Kyle Bonn"
+        }
+    },
+    {
+        "chunk": "Sean Dyche confident Everton's season will not be derailed by their 10-point penalty for breaching Premier League financial rules. The Everton manager said he was shocked and aggrieved by an independent commission’s decision to impose the biggest sporting sanction in Premier League history for a £19. 5m overspend. Dyche says he will be 'amazed' if Everton fans are not 'right on song' The Toffees take on Manchester City in the Premier League on Sunday. Dyche declined to comment on the implications of Everton’s punishment for Manchester City",
+        "metadata": {
+            "category": "sports",
+            "title": "Everton players and fans will be fired up by points penalty, asserts Sean Dyche",
+            "url": "https://www.theguardian.com/football/2023/nov/24/everton-players-and-fans-will-be-fired-up-by-points-penalty-asserts-sean-dyche",
+            "published_at": "2023-11-24T22:30:32+00:00",
+            "source": "The Guardian",
+            "author": "Andy Hunter"
+        }
+    },
+    {
+        "chunk": "Argentina face Paraguay in their first World Cup qualifying match. Lionel Messi is expected to play despite fitness concerns. The match kicks off at 8 p. m. local time on Thursday, October 12. Telemundo and Univision have broadcast rights to the match in the U. S. New Paraguay head coach Daniel Garnero, making his debut, has rung the changes after falling to Venezuela last time out. Adam Bareiro takes over at striker, earning his debut international cap in place of Gabriel Avalos. Miguel Almiron is Paraguay's most prominent goalscoring threat and is in good form",
+        "metadata": {
+            "category": "sports",
+            "title": "Watch Argentina vs Paraguay live stream, TV channel, lineups, betting odds for World Cup qualifying match",
+            "url": "https://www.sportingnews.com/us/soccer/news/watch-argentina-vs-paraguay-stream-tv-lineups-odds-qualifying/9852101b5448230da880d549",
+            "published_at": "2023-10-12T21:11:00+00:00",
+            "source": "Sporting News",
+            "author": "Kyle Bonn"
+        }
+    },
+    {
+        "chunk": "Emma Hayes will become the 10th full-time head coach of the U. S. Women’s National Team. She replaces Vlatko Andonovski, who left after the World Cup. Hayes will take charge of the team after her final season with Chelsea is complete. Hayes will remain exclusively with Chelsea through the end of their WSL campaign and the Champions League season. She will not work with the U. S. in international windows. The federation won’t owe any compensation to Chelsea, and Hayes will be fully committed to the program. U. S. Soccer has a plan in place for the transition",
+        "metadata": {
+            "category": "sports",
+            "title": "How U.S. Women’s Soccer Team Lured Emma Hayes Away From Chelsea",
+            "url": "https://theathletic.com/5061878/2023/11/14/uswnt-emma-hayes-hire-chelsea/",
+            "published_at": "2023-11-15T21:40:47+00:00",
+            "source": "The New York Times",
+            "author": "The New York Times"
+        }
+    },
+    {
+        "chunk": "Twila Kilgore will continue in the role through May and will remain as a permanent assistant coach under Hayes after the swap is complete. There are, of course, logistical questions about roster selection over the next few months. Chelsea coach Emma Hayes will leave the club at the end of the season. Hayes' American assistant Denise Reddy is likely to follow her across the pond. Chelsea’s general manager Paul Green will stay at the club. It is unclear whether any other members of Chelsea's technical staff are expected to depart",
+        "metadata": {
+            "category": "sports",
+            "title": "How U.S. Women’s Soccer Team Lured Emma Hayes Away From Chelsea",
+            "url": "https://theathletic.com/5061878/2023/11/14/uswnt-emma-hayes-hire-chelsea/",
+            "published_at": "2023-11-15T21:40:47+00:00",
+            "source": "The New York Times",
+            "author": "The New York Times"
+        }
+    },
+    {
+        "chunk": "Mauricio Pochettino said he made Reece James Chelsea captain because of ‘his personality, his leadership, the respect he has from the club and his teammates … he has Chelsea DNA’ James had not played since the opening weekend draw with Liverpool at Stamford Bridge when he injured a hamstring. The 23-year-old was not called up by England for the internationals over this past window and the idea was that he would work to be ready for Arsenal. Pochettino has appeared mired in a selection crisis since his arrival at Chelsea. He will be without seven others through injury against Arsenal",
+        "metadata": {
+            "category": "sports",
+            "title": "Pochettino looks past James mistake and stakes future on his ‘Chelsea DNA’",
+            "url": "https://www.theguardian.com/football/2023/oct/20/pochettino-reece-james-mistake-future-chelsea-dna-arsenal",
+            "published_at": "2023-10-20T21:30:28+00:00",
+            "source": "The Guardian",
+            "author": "David Hytner"
+        }
+    },
+    {
+        "chunk": "Pochettino pushed back against the notion that he was seeking a first statement win at the club. All he wants are points to drive his team up from 11th in the table",
+        "metadata": {
+            "category": "sports",
+            "title": "Pochettino looks past James mistake and stakes future on his ‘Chelsea DNA’",
+            "url": "https://www.theguardian.com/football/2023/oct/20/pochettino-reece-james-mistake-future-chelsea-dna-arsenal",
+            "published_at": "2023-10-20T21:30:28+00:00",
+            "source": "The Guardian",
+            "author": "David Hytner"
+        }
+    },
+    {
+        "chunk": "Mauricio Pochettino and Mikel Arteta will meet for the first time as head coaches of Arsenal and Chelsea on Saturday. The pair met at Paris Saint-Germain in 2001 when Arteta was on loan from Barcelona to PSG. The Argentinean took Arteta under his wing and the pair lived together in a hotel for three months. \"He's part of my family from day one. We share values and the passion for football,\" Pochettinos says. Armando Broja will miss Chelsea's game against Arsenal due to \"irritation\" in his knee",
+        "metadata": {
+            "category": "sports",
+            "title": "Arteta reveals Pochettino influence on his career | Poch: He is family",
+            "url": "https://www.skysports.com/football/news/11095/12988292/chelsea-vs-arsenal-mauricio-pochettino-and-mikel-arteta-on-their-close-connection-since-psg-playing-days-ahead-of-london-derby",
+            "published_at": "2023-10-20T21:30:00+00:00",
+            "source": "Sky Sports",
+            "author": NaN
+        }
+    },
+    {
+        "chunk": "Late checks will be made on the fitness of Reece James, Axel Disasi and Nicolas Jackson. The derby will be the first time Kai Havertz and Jorginho have gone back to play at Stamford Bridge since leaving Chelsea",
+        "metadata": {
+            "category": "sports",
+            "title": "Arteta reveals Pochettino influence on his career | Poch: He is family",
+            "url": "https://www.skysports.com/football/news/11095/12988292/chelsea-vs-arsenal-mauricio-pochettino-and-mikel-arteta-on-their-close-connection-since-psg-playing-days-ahead-of-london-derby",
+            "published_at": "2023-10-20T21:30:00+00:00",
+            "source": "Sky Sports",
+            "author": NaN
+        }
+    },
+    {
+        "chunk": "NFL awards odds: Six longshots bettors should consider for MVP, OPOY, DPOY and more. With five weeks left in the regular season, there is plenty of time for a longshot to become a contender. The MVP often ends up being someone, typically the quarterback, from one of the top-seeded teams. Sean Payton should be at the forefront of the conversation. Demar Hamlin has seldom been active on game day and rarely seen the field. Russell Wilson was supposed to be the next great franchise quarterback for the Broncos. But rather than lead the team back to prominence, Wilson was terrible",
+        "metadata": {
+            "category": "sports",
+            "title": "NFL awards odds: Six longshots bettors should consider for MVP, OPOY, DPOY and more",
+            "url": "https://www.sportingnews.com/us/betting/news/nfl-awards-odds-longshots-mvp-opoy-dpoy/ed7dc8b5ba19eb3e71c53349",
+            "published_at": "2023-12-05T20:45:25+00:00",
+            "source": "Sporting News",
+            "author": "Travis Pulver"
+        }
+    },
+    {
+        "chunk": "Rashee Rice has four straight games with at least nine targets and he's scored at least 14 PPR Fantasy points in all of those games. The Raiders have surrendered the 11th-fewest passing yards this season but they've given up the fourth-most yards after the catch. Puka Nacua needs 18 more catches to set the rookie record for most catches in a season. Curtis Samuel was the top waiver wire add at wide receiver last week. Demario Douglas' first game back was a disappointment but he still has nine targets in two of his last three games",
+        "metadata": {
+            "category": "sports",
+            "title": "Fantasy Football Week 16 Wide Receiver Preview: Waiver adds, DFS plays, and more",
+            "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-week-16-wide-receiver-preview-waiver-adds-dfs-plays-and-more/",
+            "published_at": "2023-12-19T20:51:32+00:00",
+            "source": "CBSSports.com",
+            "author": "Heath Cummings"
+        }
+    },
+    {
+        "chunk": "Jordan Addison's snap share has increased for three weeks in a row. Waddle has been the quintessential DFS tournament play as of late with three of seven games over 19 PPR Fantasy points, topping 26 twice. We expect Hill to return this week, which should drive people off of Waddle. But there is at least a chance that Hill won't be 100% and Waddle will still be Tua Tagovailoa's top target",
+        "metadata": {
+            "category": "sports",
+            "title": "Fantasy Football Week 16 Wide Receiver Preview: Waiver adds, DFS plays, and more",
+            "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-week-16-wide-receiver-preview-waiver-adds-dfs-plays-and-more/",
+            "published_at": "2023-12-19T20:51:32+00:00",
+            "source": "CBSSports.com",
+            "author": "Heath Cummings"
+        }
+    },
+    {
+        "chunk": "NFL Fantasy Football Week 6 Lineup Decisions: Starts, Sits, Sleepers, Busts. It's too early to be absolutely sure on which matchups will be easy and which ones will be tough. You should feel more comfortable starting or sitting players based on the information given",
+        "metadata": {
+            "category": "sports",
+            "title": "NFL Fantasy Football Week 6 Lineup Decisions: Starts, Sits, Sleepers, Busts to know for every game",
+            "url": "https://www.cbssports.com/fantasy/football/news/nfl-fantasy-football-week-6-lineup-decisions-starts-sits-sleepers-busts-to-know-for-every-game/",
+            "published_at": "2023-10-12T21:23:16+00:00",
+            "source": "CBSSports.com",
+            "author": "Dave Richard"
+        }
+    },
+    {
+        "chunk": "teenteenteen vteenteenly teenlyvteen  nanteen ly  lyan v vran vivity vamteen nvteenly became the  vand vva nteenlyly namteenlyva lyvvv nly vician vwest v became  planteenlyplan nus v had the vvranteenly of vworlds viana vus nva v has been the m v been v Hanteenlyteen an  lineteenteenva  va lvan lyva has been had the feel of the anteenteenwest n vadi v have been lylyv  anvvteenv lyteenteenvv has become the personly ly Tennessee has allowed exactly 50% of pass attempts of 15-plus Air Yards to all wide receivers be completed for a bottom-five yards per catch allowed rate",
+        "metadata": {
+            "category": "sports",
+            "title": "NFL Fantasy Football Week 6 Lineup Decisions: Starts, Sits, Sleepers, Busts to know for every game",
+            "url": "https://www.cbssports.com/fantasy/football/news/nfl-fantasy-football-week-6-lineup-decisions-starts-sits-sleepers-busts-to-know-for-every-game/",
+            "published_at": "2023-10-12T21:23:16+00:00",
+            "source": "CBSSports.com",
+            "author": "Dave Richard"
+        }
+    },
+    {
+        "chunk": "This matchup has an over/under of 42. 5 points, tied for fourth-lowest of the week. Logan Thomas is worth the risk considering how the Falcons have let up on tight ends. Kyle Pitts saw 10 of his 11 targets against Chicago's heavy zone coverage. Atlanta usually plays a lot of zone coverage early on and if it works they stick with it for the whole game. No team has allowed more first-down receptions to tight ends (17) Cole Kmet is a change-up to D. J. Moore in the Bears' depleted run game",
+        "metadata": {
+            "category": "sports",
+            "title": "NFL Fantasy Football Week 6 Lineup Decisions: Starts, Sits, Sleepers, Busts to know for every game",
+            "url": "https://www.cbssports.com/fantasy/football/news/nfl-fantasy-football-week-6-lineup-decisions-starts-sits-sleepers-busts-to-know-for-every-game/",
+            "published_at": "2023-10-12T21:23:16+00:00",
+            "source": "CBSSports.com",
+            "author": "Dave Richard"
+        }
+    },
+    {
+        "chunk": "Kmet has scored at least 12 PPR points in 13 of his 20 career games with at least five targets. Minnesota's defense has allowed the seventh-most receptions of throws that traveled 15-plus Air Yards. The Bears are expected to not only be without Khalil Herbert but also rookie Roschon Johnson. The Vikings allow the fewest yards per catch to rival tigh ends (5. 9 yards) Tyler Lockett is already the team leader in target share for the season. Zack Moss should lead the way for the Colts against the Jaguars",
+        "metadata": {
+            "category": "sports",
+            "title": "NFL Fantasy Football Week 6 Lineup Decisions: Starts, Sits, Sleepers, Busts to know for every game",
+            "url": "https://www.cbssports.com/fantasy/football/news/nfl-fantasy-football-week-6-lineup-decisions-starts-sits-sleepers-busts-to-know-for-every-game/",
+            "published_at": "2023-10-12T21:23:16+00:00",
+            "source": "CBSSports.com",
+            "author": "Dave Richard"
+        }
+    },
+    {
+        "chunk": "Jonathan Taylor could see as many as 15 touches at Carolina. The Colts have an edge with their offensive line getting a step on the Jaguars' front. The Dolphins are just over league average in rush rate at 43. 7%. Michael Pittman is best as a low-end WR2 in PPR leagues but no better than a flex in half- and non-PPR. The Jaguars rank fifth with a 77. 7% zone coverage rate. An outside receiver has scored at least once against the Jags in every game this season. Saints cornerback Marshon Lattimore has not followed receivers much this season",
+        "metadata": {
+            "category": "sports",
+            "title": "NFL Fantasy Football Week 6 Lineup Decisions: Starts, Sits, Sleepers, Busts to know for every game",
+            "url": "https://www.cbssports.com/fantasy/football/news/nfl-fantasy-football-week-6-lineup-decisions-starts-sits-sleepers-busts-to-know-for-every-game/",
+            "published_at": "2023-10-12T21:23:16+00:00",
+            "source": "CBSSports.com",
+            "author": "Dave Richard"
+        }
+    },
+    {
+        "chunk": "The 49ers defense running hot and the Browns offense figuring to get stuffed should make for at least a game script for Purdy. Purdy has hit at least 20 Fantasy points in 9 of his 10 regular-season starts. Cleveland Browns running back Jerome Ford has averaged 4. 3 yards per rush and 7. 7 yards per catch with three total touchdowns since taking over for Nick Chubb. Ford has yet to dominate snaps at running back for the Browns, playing right around 60% in Weeks 3 and 4",
+        "metadata": {
+            "category": "sports",
+            "title": "NFL Fantasy Football Week 6 Lineup Decisions: Starts, Sits, Sleepers, Busts to know for every game",
+            "url": "https://www.cbssports.com/fantasy/football/news/nfl-fantasy-football-week-6-lineup-decisions-starts-sits-sleepers-busts-to-know-for-every-game/",
+            "published_at": "2023-10-12T21:23:16+00:00",
+            "source": "CBSSports.com",
+            "author": "Dave Richard"
+        }
+    },
+    {
+        "chunk": "In non-PPR there's almost no way you can feel good about starting Ford given the matchup and his own inefficiency. P. J. Walker was named the starter despite being on the team's practice squad. No team allows fewer yards per catch to wideouts than the Niners (9. 7) Only three receivers -- Puka Nacua, Marquise Brown and Michael Wilson -- have had more than 15 PPR points against them. Arizona released a depth chart with second-year back Keaontay Ingram as the first stringer. It is expected that Ingram will work with Demercado in the Cardinals backfield this week",
+        "metadata": {
+            "category": "sports",
+            "title": "NFL Fantasy Football Week 6 Lineup Decisions: Starts, Sits, Sleepers, Busts to know for every game",
+            "url": "https://www.cbssports.com/fantasy/football/news/nfl-fantasy-football-week-6-lineup-decisions-starts-sits-sleepers-busts-to-know-for-every-game/",
+            "published_at": "2023-10-12T21:23:16+00:00",
+            "source": "CBSSports.com",
+            "author": "Dave Richard"
+        }
+    },
+    {
+        "chunk": "Only one running back has scored more than 15 PPR points against the Raiders this season. If the game were in Detroit I wouldn't hesitate to call Goff a must-start. But the Buccaneers defense deserves some credit for holding up against their opponents. Goff is good enough to start ahead of Trevor Lawrence, Sam Howell and Geno Smith, but I would put Matthew Stafford and Brock Purdy ahead of him. Darren Waller is a safe bet to lead the Giants in targets, but everyone in the stadium will know it",
+        "metadata": {
+            "category": "sports",
+            "title": "NFL Fantasy Football Week 6 Lineup Decisions: Starts, Sits, Sleepers, Busts to know for every game",
+            "url": "https://www.cbssports.com/fantasy/football/news/nfl-fantasy-football-week-6-lineup-decisions-starts-sits-sleepers-busts-to-know-for-every-game/",
+            "published_at": "2023-10-12T21:23:16+00:00",
+            "source": "CBSSports.com",
+            "author": "Dave Richard"
+        }
+    },
+    {
+        "chunk": "Waller was a focal point of the Giants offense and caught 8 of 11 targets for 86 yards at Miami. Four of the targets came from Tyrod Taylor, all in the fourth quarter. The Cowboys might pivot to a slower approach with Tony Pollard handling the run game more than he has been over the past couple of games. I'd rather start Sam Howell, Jared Goff and Matthew Stafford. The only quarterback to not get at least 22 Fantasy points against the Chargers was Raiders rookie Aidan O'Connell",
+        "metadata": {
+            "category": "sports",
+            "title": "NFL Fantasy Football Week 6 Lineup Decisions: Starts, Sits, Sleepers, Busts to know for every game",
+            "url": "https://www.cbssports.com/fantasy/football/news/nfl-fantasy-football-week-6-lineup-decisions-starts-sits-sleepers-busts-to-know-for-every-game/",
+            "published_at": "2023-10-12T21:23:16+00:00",
+            "source": "CBSSports.com",
+            "author": "Dave Richard"
+        }
+    },
+    {
+        "chunk": "San Francisco 49ers quarterback Brock Purdy threw for 314 yards and four touchdowns. Eagles quarterback Jalen Hurts was checked for a concussion. Miami Dolphins rout Washington Commanders 45-15. Detroit Lions beat New Orleans Saints 9-3 for first time since 1962. Green Bay Packers beat defending Super Bowl champions. Indianapolis Colts beat Tennessee Titans 31-28 in overtime. Miami Dolphins beat Washington Commanders 45-15 to go 9-3. Los Angeles Rams beat Cleveland Browns 19-36 to extend winning streak to three. Mike Evans joins Jerry Rice as the only players in NFL history to string together 10 consecutive seasons with 1,000-plus yards receiving",
+        "metadata": {
+            "category": "sports",
+            "title": "NFL roundup: Pats hit new low as Lions reach 9-3 for first time since 1962",
+            "url": "https://www.theguardian.com/sport/2023/dec/03/nfl-roundup-sunday-scores-football",
+            "published_at": "2023-12-03T22:11:26+00:00",
+            "source": "The Guardian",
+            "author": "Associated Press"
+        }
+    },
+    {
+        "chunk": "The Steelers lost starting quarterback Kenny Pickett to an ankle injury late in the first half and scored their only touchdown in garbage time",
+        "metadata": {
+            "category": "sports",
+            "title": "NFL roundup: Pats hit new low as Lions reach 9-3 for first time since 1962",
+            "url": "https://www.theguardian.com/sport/2023/dec/03/nfl-roundup-sunday-scores-football",
+            "published_at": "2023-12-03T22:11:26+00:00",
+            "source": "The Guardian",
+            "author": "Associated Press"
+        }
+    },
+    {
+        "chunk": "Rassie Erasmus' Springboks are playing for South Africa, the All Blacks for themselves. The South African laughs at the notion of what pressure is compared to the inequality and challenges the Rainbow Nation continues to experience. The backlash and toxicity that followed their historic home series loss to Ireland was a humbling and public reminder of the expectation of being an All Black. The All Blacks will experience a changing of the guard next season. Dane Coles will call time on his career, while his tight-five teammates Brodie Retallick and Sam Whitelock will head overseas",
+        "metadata": {
+            "category": "sports",
+            "title": "Legacy vs ego: The Springboks are playing for South Africa, the All Blacks are playing for themselves",
+            "url": "https://www.theroar.com.au/2023/10/27/legacy-vs-ego-the-springboks-are-playing-for-south-africa-the-all-blacks-are-playing-for-themselves/",
+            "published_at": "2023-10-26T22:19:21+00:00",
+            "source": "The Roar | Sports Writers Blog",
+            "author": "Christy Doran"
+        }
+    },
+    {
+        "chunk": "Coach Ian Foster will depart the All Blacks set up after 12 years, the last four as head coach",
+        "metadata": {
+            "category": "sports",
+            "title": "Legacy vs ego: The Springboks are playing for South Africa, the All Blacks are playing for themselves",
+            "url": "https://www.theroar.com.au/2023/10/27/legacy-vs-ego-the-springboks-are-playing-for-south-africa-the-all-blacks-are-playing-for-themselves/",
+            "published_at": "2023-10-26T22:19:21+00:00",
+            "source": "The Roar | Sports Writers Blog",
+            "author": "Christy Doran"
+        }
+    },
+    {
+        "chunk": "The UEFA Champions League has reached the end of its group stage. Manchester City are looking to go back-to-back after their triumph in last season's Champions League. Manchester United and Newcastle United will play no further part in Europe, though, having been eliminated by finishing bottom of their groups. Real Sociedad and Inter Milan dominated Group D and could not be separated as they shared a 0-0 draw at San Siro. Salzburg had their Europea League destiny in their own hands but crashed out as an Angel Di Maria-inspired Benfica ran out 3-1 winners in Austria",
+        "metadata": {
+            "category": "sports",
+            "title": "Champions League permutations, scenarios: What teams need to qualify from groups for 2023/24 Round of 16 stage",
+            "url": "https://www.sportingnews.com/us/soccer/news/champions-league-permutations-scenarios-teams-groups-round-16/6a97ebef38a68bc175d441c5",
+            "published_at": "2023-12-12T21:28:00+00:00",
+            "source": "Sporting News",
+            "author": "Dominic Booth"
+        }
+    },
+    {
+        "chunk": "Atletico Madrid and Lazio confirmed themselves as the two qualifiers for the Round of 16 before the final matchday. Borussia Dortmund sealed their place in the knockouts after a 1-1 draw with Paris Saint-Germain. Manchester City and RB Leipzig confirmed their knockout places after four games played. City's 3-2 comeback win over the Bundesliga team on November 28 clinched top spot in Group G. Young Boys drop into the Europa League. Barcelona's 2-1 home win over Porto sealed their place in the Round of 16 from Group H",
+        "metadata": {
+            "category": "sports",
+            "title": "Champions League permutations, scenarios: What teams need to qualify from groups for 2023/24 Round of 16 stage",
+            "url": "https://www.sportingnews.com/us/soccer/news/champions-league-permutations-scenarios-teams-groups-round-16/6a97ebef38a68bc175d441c5",
+            "published_at": "2023-12-12T21:28:00+00:00",
+            "source": "Sporting News",
+            "author": "Dominic Booth"
+        }
+    },
+    {
+        "chunk": "The final set of bye weeks sees only the Commanders and Cardinals idle, resulting in the losses of Terry McLaurin, Marquise Brown, Jahan Dotson, Curtis Samuel, Rondale Moore, and Greg Dortch. Washington and Arizona sit as two of the weakest pass defenses in the league, so fantasy owners won't be able to count on big stats from their receivers. Drake London, Jordan Addison and Jayden Reed are all injured. Demario Douglas (concussion) and Rashid Shaheed (thigh) missed game action in Week 13. Christian Kirk suffered a groin injury on Monday night and is more doubtful than questionable. K. J",
+        "metadata": {
+            "category": "sports",
+            "title": "Fantasy Football WR PPR Rankings Week 14: Who to start, best sleepers at wide receiver",
+            "url": "https://www.sportingnews.com/us/fantasy/news/fantasy-football-wr-ppr-rankings-week-14-wide-receiver/61c46f5567ecacb64e039100",
+            "published_at": "2023-12-07T22:11:00+00:00",
+            "source": "Sporting News",
+            "author": "Nick Musial"
+        }
+    },
+    {
+        "chunk": "Osborn, Vikings @ Raiders, JuJu Smith-Schuster, Patriots @ Steelers. 57 Trey Palmer, Buccaneers @ Falcons. 58 K. T. Perry, Saints vs. Panthers. 59 DJ Chark, Panthers @ Saints. 61 Wan'Dale Robinson, Giants vs. Packers. 62 Khalil Shakir, Bills @ Chiefs. 63 Alec Pierce, Colts @ Bengals. 64 Justin Watson, Chiefs vs. Bills. 65 Tutu Atwell, Rams @ Ravens",
+        "metadata": {
+            "category": "sports",
+            "title": "Fantasy Football WR PPR Rankings Week 14: Who to start, best sleepers at wide receiver",
+            "url": "https://www.sportingnews.com/us/fantasy/news/fantasy-football-wr-ppr-rankings-week-14-wide-receiver/61c46f5567ecacb64e039100",
+            "published_at": "2023-12-07T22:11:00+00:00",
+            "source": "Sporting News",
+            "author": "Nick Musial"
+        }
+    },
+    {
+        "chunk": "A prop bet is a bet on a specific event or statistical accomplishment. The main bet types are moneylines, point spreads, and totals. The Super Bowl is the most popular day for prop bets, but there are many other options for bettors to choose from. Every major sport with odds at the best sports betting apps will have prop bets. We wouldn’t recommend using prop bets as your main bet type when building your strategy. Use most of your budget on more stable bet types, such as moneylines, spreads, or totals",
+        "metadata": {
+            "category": "sports",
+            "title": "Prop Betting - What is a Prop Bet?",
+            "url": "https://www.sportingnews.com/us/betting/news/prop-betting/eca08189bf4e5c58e02bfeda",
+            "published_at": "2023-11-06T21:23:22+00:00",
+            "source": "Sporting News",
+            "author": "Martin Derbyshire"
+        }
+    },
+    {
+        "chunk": "An exotic prop bet is a non-traditional prop bet that is not focused on scenarios during a game. In the US, the most exotic bets are available during the Super Bowl, which is the most prominent sports betting day of the year. These bets can range from the number of songs sung during the halftime show to the result of the coin toss",
+        "metadata": {
+            "category": "sports",
+            "title": "Prop Betting - What is a Prop Bet?",
+            "url": "https://www.sportingnews.com/us/betting/news/prop-betting/eca08189bf4e5c58e02bfeda",
+            "published_at": "2023-11-06T21:23:22+00:00",
+            "source": "Sporting News",
+            "author": "Martin Derbyshire"
+        }
+    },
+    {
+        "chunk": "Claim over $5,000 in bonuses from Bet365, BetMGM, BetRivers, Caesars Sportsbook, DraftKings and FanDuel. Monday Night Football closes out the NFL’s Week 15 tonight with a pair of teams desperately looking to snap losing streaks. The Eagles and Seahawks come into this Monday Night Football game on troubling losing streaks. The NFC matchup has important playoff implications, particularly for Philadelphia. Philadelphia’s two-game losing streak has dropped them to second place in the NFC East behind the Cowboys",
+        "metadata": {
+            "category": "sports",
+            "title": "Best sportsbook bonus offers for NFL Monday Night Football Eagles vs. Seahawks: Claim over $5,000 in bonuses from Bet365, BetMGM, BetRivers, Caesars Sportsbook, DraftKings and FanDuel ",
+            "url": "https://www.sportingnews.com/us/betting/news/best-sportsbook-bonus-offers-eagles-seahawks-mnf-bet365-betmgm-betrivers-caesars-draftkings-fanduel%C2%A0/0cac736f90d80f21daafd8a2",
+            "published_at": "2023-12-18T21:00:03+00:00",
+            "source": "Sporting News",
+            "author": "Sporting News Betting"
+        }
+    },
+    {
+        "chunk": "Sports betting apps and live streaming have made betting on golf easier and more exciting. With just a few taps, you can bet on golfers live as the round unfolds. Here are some top sports betting apps for golf betting in the US and what they offer. The 2024 PGA Tour schedule is comprised of 36 events starting in January. The 2024 FedEx Cup Champion will receive $25 million. The most lucrative live bets in golf often revolve around backing players who've had a slow start but have the talent to stage a comeback",
+        "metadata": {
+            "category": "sports",
+            "title": "Best Golf Betting Sites and Apps - Top Sportsbooks for Golf 2023",
+            "url": "https://www.sportingnews.com/us/betting/news/golf-betting-sites/7735c28b8c223b35fb013517",
+            "published_at": "2023-10-13T21:38:36+00:00",
+            "source": "Sporting News",
+            "author": "Sam Eggleston"
+        }
+    },
+    {
+        "chunk": "Bet on whether a golfer will finish within the specified range. Pick one golfer to outperform another in the tournament. Group Matchups: Bet on which golfer in a predefined group will perform the best. Bet on the Ryder Cup or Presidents Cup",
+        "metadata": {
+            "category": "sports",
+            "title": "Best Golf Betting Sites and Apps - Top Sportsbooks for Golf 2023",
+            "url": "https://www.sportingnews.com/us/betting/news/golf-betting-sites/7735c28b8c223b35fb013517",
+            "published_at": "2023-10-13T21:38:36+00:00",
+            "source": "Sporting News",
+            "author": "Sam Eggleston"
+        }
+    },
+    {
+        "chunk": "All major MLB betting sites and apps post daily MLB odds, ranging from game lines to player props to futures bets. Fans can engross themselves in the season by betting on individual games, player performance, or season-long results. FanDuel presents an array of game props and futures bets, letting fans speculate on longer-term outcomes such as division champions or MVP candidates. The best sports betting apps offer live, in-game betting for Major League Baseball",
+        "metadata": {
+            "category": "sports",
+            "title": "MLB Betting Sites & Apps - The Best Baseball Sportsbooks 2023",
+            "url": "https://www.sportingnews.com/us/betting/news/mlb-betting-sites/90537abdc639ffc5d57a8c1b",
+            "published_at": "2023-10-24T22:32:27+00:00",
+            "source": "Sporting News",
+            "author": "Sam Eggleston"
+        }
+    },
+    {
+        "chunk": "Live betting means you can bet on a game in progress, right down to what the next batter will do with the next pitch or what team will win the inning. Bet on MLB run lines, moneylines, and totals. You can bet on team and player performance. You can also bet on who you think will win the Most Valuable Player award. All bets must be made on the first five innings of a game. You must bet on a team that is winning at the time",
+        "metadata": {
+            "category": "sports",
+            "title": "MLB Betting Sites & Apps - The Best Baseball Sportsbooks 2023",
+            "url": "https://www.sportingnews.com/us/betting/news/mlb-betting-sites/90537abdc639ffc5d57a8c1b",
+            "published_at": "2023-10-24T22:32:27+00:00",
+            "source": "Sporting News",
+            "author": "Sam Eggleston"
+        }
+    },
+    {
+        "chunk": "Brock Purdy threw four touchdowns in the 42-10 rout. Christian McCaffrey scored a touchdown for a 14th consecutive game. San Francisco, now 5-0, doesn't face a team with a winning record until Week 10. 49ers edge rusher Drake Jackson is walking off after requiring some medical attention on the field. The 49ers' defense tightens the screws and limits Dallas to a field goal. The Cowboys looked better on third down on their last drive, but Prescott's pass to Ferguson is short. The 49ers lead the Cowboys 14-0 after the first quarter",
+        "metadata": {
+            "category": "sports",
+            "title": "Cowboys vs. 49ers live score, updates, highlights from NFL 'Sunday Night Football' game",
+            "url": "https://www.sportingnews.com/us/nfl/news/cowboys-49ers-live-score-highlights-sunday-night-football/e46d8e03c6a948aa82f859c3",
+            "published_at": "2023-10-08T22:47:03+00:00",
+            "source": "Sporting News",
+            "author": "Dan Treacy"
+        }
+    },
+    {
+        "chunk": "The 49ers defense has picked up right where it left off against the Cowboys in January. The Cowboys are forced to punt out of their own end zone after Fred Warner sacks Dak Prescott. The 49ers and Cowboys have a long history with one another, but San Francisco has gotten the better of Dallas in each of their last two meetings. Mike Tirico (play-by-play) and Cris Collinsworth (color analyst) will be on the call from Levi's Stadium. The game can be watched on NBC, which has long held the broadcast rights to \"Sunday Night Football\"",
+        "metadata": {
+            "category": "sports",
+            "title": "Cowboys vs. 49ers live score, updates, highlights from NFL 'Sunday Night Football' game",
+            "url": "https://www.sportingnews.com/us/nfl/news/cowboys-49ers-live-score-highlights-sunday-night-football/e46d8e03c6a948aa82f859c3",
+            "published_at": "2023-10-08T22:47:03+00:00",
+            "source": "Sporting News",
+            "author": "Dan Treacy"
+        }
+    },
+    {
+        "chunk": "Travis Kelce and Taylor Swift have been in the news for well over a week now. FanDuel has released a special prop bets menu, cleverly called \"Prop Stars\" Here's a look at how you can catch some cash in prime time. The Chiefs are a pass-first team that loves to light it up through the air. Zach Wilson doesn't have time to be the anti-hero, or villain, as traditionalists would say. The Jets are without the quarterback they married, and now they're back together with Wilson",
+        "metadata": {
+            "category": "sports",
+            "title": "FanDuel 'Prop Stars' Picks: Best bets for Travis Kelce & Taylor Swift-inspired props for Chiefs-Jets Week 4",
+            "url": "https://www.sportingnews.com/us/nfl/news/best-chiefs-jets-prop-stars-bets-fanduel-kelce-swift-snf/581275901fe0e3011cdcb562",
+            "published_at": "2023-09-28T21:41:00+00:00",
+            "source": "Sporting News",
+            "author": "Nick Brinkerhoff"
+        }
+    },
+    {
+        "chunk": "Manchester United are struggling in the Premier League and Champions League. Dutchman Erik ten Hag has been in charge since the start of the season. The Red Devils are bottom of their Champions League group. Sir Jim Ratcliffe is set to take control of 25 per cent of the club. Former Chelsea and Tottenham boss Conte hasn't cropped up near the top of any betting lists, but there could be some sense in hiring the Italian to take over at Old Trafford",
+        "metadata": {
+            "category": "sports",
+            "title": "Man United next manager: Assessing candidates to replace Erik ten Hag if Red Devils sack Dutch boss",
+            "url": "https://www.sportingnews.com/us/soccer/news/man-united-next-manager-candidates-replace-erik-ten-hag/07c717a6ff83b771c4c5f538",
+            "published_at": "2023-12-13T20:52:15+00:00",
+            "source": "Sporting News",
+            "author": "Kyle Bonn"
+        }
+    },
+    {
+        "chunk": "Julian Nagelsmann was only recently hired as the head coach of the German national team, meaning there's no chance he is available until after Euro 2024 at the earliest. Mauricio Pochettino could become available if United look to move on from Erik ten Hag. But would he really be a sellable hire, after bombing at PSG and departing Tottenham in acrimonious manner? It seems unlikely that United would be interested in someone who demands significant club control and will have just been fired from a struggling league rival",
+        "metadata": {
+            "category": "sports",
+            "title": "Man United next manager: Assessing candidates to replace Erik ten Hag if Red Devils sack Dutch boss",
+            "url": "https://www.sportingnews.com/us/soccer/news/man-united-next-manager-candidates-replace-erik-ten-hag/07c717a6ff83b771c4c5f538",
+            "published_at": "2023-12-13T20:52:15+00:00",
+            "source": "Sporting News",
+            "author": "Kyle Bonn"
+        }
+    },
+    {
+        "chunk": "The San Francisco 49ers entered Week 6 riding a 15-game winning streak and looking unstoppable. They exited with a 19-17 defeat at Cleveland, injuries to key players and, for the first time this season, a question mark or two. Here we’ll address 10 teams with the shortest Super Bowl odds. Philadelphia Eagles: Explosive passing is down through most of the league, including for the Eagles. Miami Dolphins: Has Tua Tagovailoa proven he’s built to last? Detroit Lions: The Lions are 11. 3 EPA better on defense from last season to this season",
+        "metadata": {
+            "category": "sports",
+            "title": "N.F.L. Executives on the Biggest Questions Facing Super Bowl Contenders",
+            "url": "https://theathletic.com/4964039/2023/10/16/nfl-news-week-6-super-bowl-favorites-broncos-dolphins/",
+            "published_at": "2023-10-16T23:58:53+00:00",
+            "source": "The New York Times",
+            "author": "The New York Times"
+        }
+    },
+    {
+        "chunk": "There are many ways to look at a team's chances of winning the Super Bowl. Sports experts say the key to success is being able to change the way you look at the game. Some experts say it's more about the team than the team itself. The NFL has seen plenty of rookies kick effectively in the postseason as well. The 49ers raised eyebrows among some when they used their second-highest pick in the 2023 draft for a kicker. The 2017 Eagles won a Super Bowl with rookie Jake Elliott performing well",
+        "metadata": {
+            "category": "sports",
+            "title": "N.F.L. Executives on the Biggest Questions Facing Super Bowl Contenders",
+            "url": "https://theathletic.com/4964039/2023/10/16/nfl-news-week-6-super-bowl-favorites-broncos-dolphins/",
+            "published_at": "2023-10-16T23:58:53+00:00",
+            "source": "The New York Times",
+            "author": "The New York Times"
+        }
+    },
+    {
+        "chunk": "Denver has twice this season used all three timeouts with at least four minutes remaining before halftime. Payton suffered that fate only four times in 258 total games coaching the Saints. The New York Giants and Minnesota Vikings exceeded expectations under first-year head coaches in 2022. Jared Goff is enjoying the second-best start to a season for his career. Indianapolis Colts rookie quarterback Anthony Richardson might undergo season-ending shoulder surgery. The Football 100, the definitive ranking of the NFL’s best 100 players of all time, goes on sale this fall",
+        "metadata": {
+            "category": "sports",
+            "title": "N.F.L. Executives on the Biggest Questions Facing Super Bowl Contenders",
+            "url": "https://theathletic.com/4964039/2023/10/16/nfl-news-week-6-super-bowl-favorites-broncos-dolphins/",
+            "published_at": "2023-10-16T23:58:53+00:00",
+            "source": "The New York Times",
+            "author": "The New York Times"
+        }
+    },
+    {
+        "chunk": "A point spread is a predetermined margin set by bookmakers to level the playing field between two teams. The favorite is the team expected to win and is typically assigned a negative point value, indicating the number of points by which they need to win for a bet on them to be successful. For the underdog, it means they either won outright or lost by fewer points than the specified point spread. A \"push\" in betting refers to a situation where the final result of an event matches the set point spread. When a push occurs, the wagers are typically refunded. Spread betting is popular across sports, but there can be slight differences. Point spread betting is a form of wagering where a sportsbook assigns a \"spread\" to level the playing field between two teams. The favorite must win by more than the spread to \"cover\" and be considered a winning bet. The underdog must either win outright or lose by fewer points to be a winning bets",
+        "metadata": {
+            "category": "sports",
+            "title": "Point Spread Betting - What is a Point Spread Bet?",
+            "url": "https://www.sportingnews.com/us/betting/news/spread-betting/c740afa218dca67d75929ee4",
+            "published_at": "2023-11-01T22:50:52+00:00",
+            "source": "Sporting News",
+            "author": "Sam Eggleston"
+        }
+    },
+    {
+        "chunk": "The NBA gives you plenty of games, teams and players to bet on across hundreds of odds markets. You can bet everything from moneylines, totals, and point spreads to player props for scoring, rebounding, and assists. See below for where to look and more on betting on the NBA at the best sports betting sites. You must open an account to bet on basketball at the top NBA betting sites. Sign up and start betting using a laptop, phone or tablet. Use our links to access the sportsbook of your choice to get the best sports betting bonus available. The NBA is special because of the number of bets available for every game, ranging from pre-game to live betting and parlays. There’s a staggering volume of bets for every NBA game at online sportsbooks. While NBA betting is permitted, its legality varies across the nation",
+        "metadata": {
+            "category": "sports",
+            "title": "The Best NBA Betting Sites and Apps for the 2023-24 Season",
+            "url": "https://www.sportingnews.com/us/betting/news/nba-betting-sites/dba1ce5e986e58a12cacafd6",
+            "published_at": "2023-10-02T21:58:37+00:00",
+            "source": "Sporting News",
+            "author": "Sam Eggleston"
+        }
+    },
+    {
+        "chunk": "West Indies beat England by four wickets to win T20 series 3-2. Shai Hope hits massive six as hosts struggle to 132-8 in chase of 267. England had won the first two matches of the series in the Caribbean. West Indies have won four series in a row at home to England. Adil Rashid took two wickets and conceded just 21 for West Indies. Topley was even better, also claiming a pair of victims but conceding only 17. England take plenty of positives from this series, but the result was not one",
+        "metadata": {
+            "category": "sports",
+            "title": "West Indies clinch T20 series after Shai Hope edges hosts past England total",
+            "url": "https://www.theguardian.com/sport/2023/dec/21/west-indies-clinch-t20-series-after-shai-hope-edges-hosts-past-england-total",
+            "published_at": "2023-12-21T23:45:58+00:00",
+            "source": "The Guardian",
+            "author": "Simon Burnton at the Brian Lara Stadium"
+        }
+    },
+    {
+        "chunk": "Alyssa Healy denies Aussie era ending after India loss, calls for more Tests. Australia stumbled to their first Test defeat to India by eight wickets in Mumbai on Sunday. The loss comes after one of the more difficult periods for the Australian side in the past six years, with the retirements of Meg Lanning and Rachael Haynes. Healy says the Test should have formed part of a multi-format series. Australia will play one Test, three ODIs and three T20s. Each are individual contests rather than an overarching series in the same way the Ashes is decided",
+        "metadata": {
+            "category": "sports",
+            "title": "‘So used to seeing us winning’: Healy denies Aussie era ending after India loss, calls for more Tests",
+            "url": "https://www.theroar.com.au/2023/12/25/so-used-to-seeing-us-winning-healy-denies-aussie-era-ending-after-india-loss-calls-for-more-tests/",
+            "published_at": "2023-12-24T22:28:25+00:00",
+            "source": "The Roar | Sports Writers Blog",
+            "author": "News"
+        }
+    },
+    {
+        "chunk": "Australia had taken the trophy used from the 2021-22 series against India",
+        "metadata": {
+            "category": "sports",
+            "title": "‘So used to seeing us winning’: Healy denies Aussie era ending after India loss, calls for more Tests",
+            "url": "https://www.theroar.com.au/2023/12/25/so-used-to-seeing-us-winning-healy-denies-aussie-era-ending-after-india-loss-calls-for-more-tests/",
+            "published_at": "2023-12-24T22:28:25+00:00",
+            "source": "The Roar | Sports Writers Blog",
+            "author": "News"
+        }
+    },
+    {
+        "chunk": "The Warriors are 8-10 following Tuesday’s disastrous collapse to the Kings in Sacramento. The Warriors’ starting five – a dominant unit over the last decade – is being outscored by an alarming 10. 6 points every 100 possessions. The Golden State Warriors have a history of drafting at the wrong time. The team's recent draft picks haven't panned out. The age problem is coming to a head, and the team may have to make some tough decisions. Whether it’s before the trade deadline or next summer, it feels like something is bound to change",
+        "metadata": {
+            "category": "sports",
+            "title": "Golden State's draft misses are starting to add up",
+            "url": "https://www.yardbarker.com/nba/articles/golden_states_draft_misses_are_starting_to_add_up/s1_8276_39602204",
+            "published_at": "2023-11-29T20:41:32+00:00",
+            "source": "Yardbarker",
+            "author": "Wes Goldberg, RealGM"
+        }
+    },
+    {
+        "chunk": "Spurs have fallen to their fourth defeat in five with a 2-1 reverse at home to West Ham – and they only have themselves to blame. Ange Postecoglou’s men were sitting pretty at 1-0 up thanks to an early Cristian Romero header, then missed a host of chances to extend their lead. Yet after spurning their own opportunities, Tottenham presented two gift-wrapped chances to their opponents. Tottenham are the first side in Premier League history to. fail to win five consecutive games despite going 1-0 up in each match",
+        "metadata": {
+            "category": "sports",
+            "title": "Ange aghast as Spurs suffer ‘unbelievable’ West Ham turnaround – with two of the worst goals you’ll see",
+            "url": "https://www.theroar.com.au/2023/12/08/ange-aghast-as-spurs-suffer-unbelievable-west-ham-turnaround-with-two-of-the-worst-goals-youll-see/",
+            "published_at": "2023-12-07T22:28:31+00:00",
+            "source": "The Roar | Sports Writers Blog",
+            "author": "Mike Meehall Wood"
+        }
+    },
+    {
+        "chunk": "Everton trounced Newcastle 3-0 to move clear of the relegation zone despite their ten point penalty for financial irregularities",
+        "metadata": {
+            "category": "sports",
+            "title": "Ange aghast as Spurs suffer ‘unbelievable’ West Ham turnaround – with two of the worst goals you’ll see",
+            "url": "https://www.theroar.com.au/2023/12/08/ange-aghast-as-spurs-suffer-unbelievable-west-ham-turnaround-with-two-of-the-worst-goals-youll-see/",
+            "published_at": "2023-12-07T22:28:31+00:00",
+            "source": "The Roar | Sports Writers Blog",
+            "author": "Mike Meehall Wood"
+        }
+    },
+    {
+        "chunk": "Every Tuesday, we scour DraftKings, FanDuel, and SuperDraft for affordable sleepers and under-the-radar value plays. By finding stud production at modest prices, we allow ourselves plenty of remaining budget to afford elite weekly performers at other roster spots. When our studs and our sleepers hit, we usually win. The Packers' pass-catchers have emerged as legit offensive threats over the past month. The Cardinals rank among the 10 most generous defenses to QBs on DK. Devin Singletary has been pretty damn good and showed us last week that he's the main man in Houston",
+        "metadata": {
+            "category": "sports",
+            "title": "NFL DFS picks Week 15: Best sleepers, value players for FanDuel, DraftKings, SuperDraft lineups",
+            "url": "https://www.sportingnews.com/us/fantasy/news/dfs-picks-week-15-draftkings-fanduel-sleepers-value-lineup/49b050404a7a45697029c296",
+            "published_at": "2023-12-13T20:32:00+00:00",
+            "source": "Sporting News",
+            "author": "Sloan Piva"
+        }
+    },
+    {
+        "chunk": "Romeo Doubs has been one of the more dependable offensive weapons in Green Bay's offense. David Njoku gets a chance for an encore against the Bears, who have surrendered the 10th-most PPR points to tight ends this season",
+        "metadata": {
+            "category": "sports",
+            "title": "NFL DFS picks Week 15: Best sleepers, value players for FanDuel, DraftKings, SuperDraft lineups",
+            "url": "https://www.sportingnews.com/us/fantasy/news/dfs-picks-week-15-draftkings-fanduel-sleepers-value-lineup/49b050404a7a45697029c296",
+            "published_at": "2023-12-13T20:32:00+00:00",
+            "source": "Sporting News",
+            "author": "Sloan Piva"
+        }
+    }
+]
