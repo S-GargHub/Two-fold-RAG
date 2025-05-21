@@ -137,9 +137,6 @@ def extract_entities_and_create_graph(chunks_data, output_dir="temp_KG"):
 
     for category, chunks in chunks_data.items():
         print(f"\n--- Processing category: {category} ---")
-        if category != "technology":
-            continue
-        print("HEY!!!")
         chunk_texts = [chunk["chunk"] for chunk in chunks if chunk.get("chunk")][:4]
 
         output_file = os.path.join(output_dir, f"{category}_KG.json")
